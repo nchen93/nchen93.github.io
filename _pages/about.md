@@ -7,24 +7,20 @@ redirect_from:
 ---
 
 I'm currently pursuing the Ph.D. degree with [Beijing University of Posts and Telecommunications (BUPT)](https://sice.bupt.edu.cn/), Beijing, China. My research interests include **Space-Air-Ground Integrated Networks**, **Network Virtualization**, **Satellite Communications**, and **Artificial Intelligence for Networking**.
-======
 
 I have published more than twenty high-level articles, including **<font color=red>IEEE Communications Surveys and Tutorials</font>**, **<font color=red>IEEE Wireless Communications</font>**, **<font color=red>IEEE Network</font>**, **<font color=red>IEEE Transactions on Industrial Informatics</font>**, **<font color=red>IEEE Transactions on Information Forensics and Security</font>**, **<font color=red>IEEE Transactions on Intelligent Transportation Systems</font>**, etc. 
-======
 
 I'm serving as a reviewer for several journals/conferences, such as IEEE TII, IEEE Network, IEEE T-ITS, IEEE TVT, IEEE TNSM, IEEE TMM, IEEE IoT-J, etc. And, I'm serving as the TPC of the 2025 International Conference on Applied Mathematics, Modeling and Artificial Intelligence ([AMMAI 2025](https://ammai.easyaca.com.cn/)), the 2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering ([MMRCE 2024](https://mmrce.easyaca.com.cn//)). 
-======
 
 I have received more than ten outstanding awards and honors from the government and academia, including **<font color=red>National Postgraduate Scholarships</font>**, **<font color=red>Second Prize of Shandong Province Postgraduate Innovation Achievement Award</font>**, **<font color=red>Outstanding Graduates of Shandong Province</font>**, etc. I have received funding from **<font color=red>BUPT Excellent Ph.D. Students Foundation</font>**.
 
-======
 Educations
 ======
 > **<font color=red>Ph.D</font>**: 2023.09 - now, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China.
 
 > **<font color=red>M.S.</font>**: 2020.09 - 2023.07, [China University of Petroleum (East China)](https://upc.edu.cn/), Qingdao, China. (with highest honors: The 17th Top 10 Academic Nominee of Postgraduates)
 
-======
+
 Publications
 ======
 > 【**<font color=red>IEEE COMST</font>, <font color=blue>SCI一区</font>, IF: 35.6**】[AI-Empowered Virtual Network Embedding: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/10587211), **IEEE Communications Surveys & Tutorials**, 2024.
@@ -66,7 +62,7 @@ Publications
 > 【**<font color=red>Electronics</font>, <font color=blue>SCI三区</font>, IF: 2.9**】[Flow-Based Joint Programming of Time Sensitive Task and Network](https://www.mdpi.com/2079-9292/12/19/4103), **Electronics**, 12(19), 4103, 2023.
 
 > 【**<font color=red>IEEE ICC'22</font>, <font color=blue>EI</font>**】[Intelligent Requests Orchestration for Microservice Management Based on Blockchain in Software Defined Networking: a Security Guarantee](https://ieeexplore.ieee.org/abstract/document/9814536), **2022 IEEE International Conference on Communications Workshops (ICC Workshops)**, 254-259, 2022.
-======
+
 
 Honors and Awards
 ======
@@ -81,7 +77,7 @@ Honors and Awards
 > **The 17th Top 10 Academic Nominee of Postgraduates**, 2022-11-12, China University of Petroleum (East China), China.
 
 > **Outstanding Master's Thesis of 2023**, 2023-06-20, China University of Petroleum (East China), China.
-======
+
 
 Reviewer
 ======
@@ -112,14 +108,14 @@ Reviewer
 > Recent advances in electrical & electronic engineering
 
 > ......
-======
+
 
 TPC of International Conference
 ======
 > [2025 International Conference on Applied Mathematics, Modeling and Artificial Intelligence (AMMAI 2025)](https://ammai.easyaca.com.cn/)
 
 > [2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering (MMRCE 2024)](https://mmrce.easyaca.com.cn//)
-======
+
 
 Contact me
 ======
