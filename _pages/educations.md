@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "About me"
+title: "Educations"
 permalink: /educations/
 author_profile: true
 ---
 
-{% include base_path %}
 
 > **Ph.D**: 2023.09 - now, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China.
 
