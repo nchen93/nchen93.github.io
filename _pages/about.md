@@ -64,6 +64,20 @@ Publications
 
 > [Intelligent Requests Orchestration for Microservice Management Based on Blockchain in Software Defined Networking: a Security Guarantee](https://ieeexplore.ieee.org/abstract/document/9814536), **2022 IEEE International Conference on Communications Workshops (ICC Workshops)**, 254-259, 2022.
 
+Honors and Awards
+------
+> **National Postgraduate Scholarship** (ID:SSY202208819), 2022-12, Ministry of Education of the People's Republic of China.
+
+> **Second Prize of Shandong Province Postgraduate Innovation Achievement Award** (ID:2022CXCG101), 2022-12-30, Shandong Provincial Department of Education, China.
+
+> **Outstanding Graduates of Shandong Province** (ID:GXYP23YZS10425N428978730-8E94A390E3), 2023-04-17, Human Resources and Social Security Department of Shandong Province, China.
+
+> **One thousand outstanding college students in Qingdao City**, 2023-05, Qingdao Municipal Education Bureau, China.
+
+> **The 17th Top 10 Academic Nominee of Postgraduates**, 2022-11-12, China University of Petroleum (East China), China.
+
+> **Outstanding Master's Thesis of 2023**, 2023-06-20, China University of Petroleum (East China), China.
+
 Reviewer
 ------
 1. IEEE Transactions on Industrial Informatics (IEEE TII)
@@ -81,9 +95,11 @@ Reviewer
 13. Recent advances in electrical & electronic engineering
 14. ......
 
-Create content & metadata
+TPC of International Conference
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+> [2025 International Conference on Applied Mathematics, Modeling and Artificial Intelligence (AMMAI 2025)](https://ammai.easyaca.com.cn/)
+
+> [2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering (MMRCE 2024)](https://mmrce.easyaca.com.cn//)
 
 **Markdown generator**
 
