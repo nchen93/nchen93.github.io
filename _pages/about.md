@@ -116,4 +116,4 @@ TPC of International Conference
 
 Contact me
 ------
-For academic cooperation or other matters, please contact me, [email](nchen@bupt.edu.cn).
+For academic cooperation or other matters, please contact me, email: _nchen@bupt.edu.cn_.
