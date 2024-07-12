@@ -7,7 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm currently pursuing the Ph.D. degree with the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT), Beijing, China. My research interests include Space-Air-Ground Integrated Networks, Resource Allocation, Network Virtualization, Satellite Communications, and Artificial Intelligence for Networking.
+
+I have published more than twenty high-level articles, including IEEE Communications Surveys and Tutorials (IEEE COMMUN SURV TUT), IEEE Wireless Communications (IEEE WCM), IEEE Network, IEEE Transactions on Industrial Informatics (IEEE TII), IEEE Transactions on Information Forensics and Security (IEEE TIFS), IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), IEEE Transactions on Vehicular Technology (IEEE TVT), IEEE Transactions on Sustainable Computing (IEEE TSUSC), IEEE Transactions on Network and Service Management (IEEE TNSM), IEEE Transactions on Computational Social Systems (IEEE TCSS), etc. 
+
+I'm serving as a reviewer for several journals/conferences, such as IEEE TII, IEEE Network, IEEE T-ITS, IEEE TVT, IEEE TNSM, IEEE Transactions on Multimedia (IEEE TMM), IEEE Internet of Things Journal (IEEE IoT-J), etc. And, I'm serving as the Technical Program Committee of the 2025 International Conference on Applied Mathematics, Modeling and Artificial Intelligence ([AMMAI 2025](https://ammai.easyaca.com.cn/)), the 2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering ([MMRCE 2024](https://mmrce.easyaca.com.cn//)). 
+
+I have received more than ten outstanding awards and honors from the government and academia, including National Postgraduate Scholarships, Second Prize of Shandong Province Postgraduate Innovation Achievement Award, Outstanding Graduates of Shandong Province, etc. I have received funding from BUPT Excellent Ph.D. Students Foundation.
+
 
 A data-driven personal website
 ======
