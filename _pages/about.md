@@ -6,20 +6,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently pursuing the Ph.D. degree with the [School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT)](https://sice.bupt.edu.cn/), Beijing, China. My research interests include **Space-Air-Ground Integrated Networks**, **Resource Allocation**, **Network Virtualization**, **Satellite Communications**, and **Artificial Intelligence for Networking**.
+I'm currently pursuing the Ph.D. degree with [Beijing University of Posts and Telecommunications (BUPT)](https://sice.bupt.edu.cn/), Beijing, China. My research interests include **Space-Air-Ground Integrated Networks**, **Network Virtualization**, **Satellite Communications**, and **Artificial Intelligence for Networking**.
 
-I have published more than twenty high-level articles, including **IEEE Communications Surveys and Tutorials** (IEEE COMMUN SURV TUT), **IEEE Wireless Communications** (IEEE WCM), **IEEE Network**, **IEEE Transactions on Industrial Informatics** (IEEE TII), **IEEE Transactions on Information Forensics and Security** (IEEE TIFS), **IEEE Transactions on Intelligent Transportation Systems** (IEEE T-ITS), etc. 
+I have published more than twenty high-level articles, including **<font color=red>IEEE Communications Surveys and Tutorials</font>**, **<font color=red>IEEE Wireless Communications</font>**, **<font color=red>IEEE Network</font>**, **<font color=red>IEEE Transactions on Industrial Informatics</font>**, **<font color=red>IEEE Transactions on Information Forensics and Security</font>**, **<font color=red>IEEE Transactions on Intelligent Transportation Systems</font>**, etc. 
 
-I'm serving as a reviewer for several journals/conferences, such as IEEE TII, IEEE Network, IEEE T-ITS, IEEE TVT, IEEE TNSM, IEEE Transactions on Multimedia (IEEE TMM), IEEE Internet of Things Journal (IEEE IoT-J), etc. And, I'm serving as the Technical Program Committee of the 2025 International Conference on Applied Mathematics, Modeling and Artificial Intelligence ([AMMAI 2025](https://ammai.easyaca.com.cn/)), the 2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering ([MMRCE 2024](https://mmrce.easyaca.com.cn//)). 
+I'm serving as a reviewer for several journals/conferences, such as IEEE TII, IEEE Network, IEEE T-ITS, IEEE TVT, IEEE TNSM, IEEE TMM, IEEE IoT-J, etc. And, I'm serving as the TPC of the 2025 International Conference on Applied Mathematics, Modeling and Artificial Intelligence ([AMMAI 2025](https://ammai.easyaca.com.cn/)), the 2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering ([MMRCE 2024](https://mmrce.easyaca.com.cn//)). 
 
-I have received more than ten outstanding awards and honors from the government and academia, including **National Postgraduate Scholarships**, **Second Prize of Shandong Province Postgraduate Innovation Achievement Award**, **Outstanding Graduates of Shandong Province**, etc. I have received funding from **BUPT Excellent Ph.D. Students Foundation**.
+I have received more than ten outstanding awards and honors from the government and academia, including **<font color=red>National Postgraduate Scholarships</font>**, **<font color=red>Second Prize of Shandong Province Postgraduate Innovation Achievement Award</font>**, **<font color=red>Outstanding Graduates of Shandong Province</font>**, etc. I have received funding from **<font color=red>BUPT Excellent Ph.D. Students Foundation</font>**.
 
 
 Educations
 ======
-> **Ph.D**: 2023.09 - now, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China.
+> **<font color=red>Ph.D</font>**: 2023.09 - now, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China.
 
-> **M.S.**: 2020.09 - 2023.07, [China University of Petroleum (East China)](https://upc.edu.cn/), Qingdao, China. (with highest honors: The 17th Top 10 Academic Nominee of Postgraduates)
+> **<font color=red>M.S.</font>**: 2020.09 - 2023.07, [China University of Petroleum (East China)](https://upc.edu.cn/), Qingdao, China. (with highest honors: The 17th Top 10 Academic Nominee of Postgraduates)
 
 Publications
 ======
