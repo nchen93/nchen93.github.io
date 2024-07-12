@@ -64,9 +64,23 @@ Publications
 
 > [Intelligent Requests Orchestration for Microservice Management Based on Blockchain in Software Defined Networking: a Security Guarantee](https://ieeexplore.ieee.org/abstract/document/9814536), **2022 IEEE International Conference on Communications Workshops (ICC Workshops)**, 254-259, 2022.
 
-Site-wide configuration
+Reviewer
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+(1) IEEE Transactions on Industrial Informatics (IEEE TII)
+(2) IEEE Network Magazine
+(3) IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
+(4) IEEE Transactions on Vehicular Technology (IEEE TVT)
+(5) IEEE Internet of Things Journal (IEEE IoT-J)
+(6) IEEE Transactions on Network and Service Management (IEEE TNSM)
+(7) IEEE Transactions on Multimedia (IEEE TMM)
+(8) Future Generation Computer Systems (FGCS)
+(9) Pattern Recognition (PR)
+(10) Knowledge-Based Systems (KBS)
+(11) Engineering Applications of Artificial Intelligence (EAAI)
+(12) The 5th International Conference on Machine Learning and Intelligent Systems (MLIS 2023)
+(13) Recent advances in electrical & electronic engineering
+......
+
 
 Create content & metadata
 ------
