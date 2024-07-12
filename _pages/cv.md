@@ -15,9 +15,3 @@ I'm serving as a reviewer for several journals/conferences, such as IEEE TII, IE
 
 I have received more than ten outstanding awards and honors from the government and academia, including **National Postgraduate Scholarships**, **Second Prize of Shandong Province Postgraduate Innovation Achievement Award**, **Outstanding Graduates of Shandong Province**, etc. I have received funding from **BUPT Excellent Ph.D. Students Foundation**.
 
-
-Educations
-======
-> **Ph.D**: 2023.09 - now, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China.
-
-> **M.S.**: 2020.09 - 2023.07, [China University of Petroleum (East China)](https://upc.edu.cn/), Qingdao, China. (with highest honors: The 17th Top 10 Academic Nominee of Postgraduates)
