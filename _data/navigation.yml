@@ -11,8 +11,11 @@ main:
     
   - title: "Honors and Awards"
     url: /honors/
+
+  - title: "Reviewer"
+    url: /reviewer/
         
-  - title: "TPC of International Conference"
+  - title: "TPC"
     url: /tpc/
     
   - title: "Contact me"
