@@ -4,8 +4,30 @@ title: "Reviewer"
 permalink: /reviewer/
 author_profile: true
 ---
-> **Ph.D**: 2023.09 - now, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China.
+> IEEE Transactions on Industrial Informatics (IEEE TII)
 
-> **M.S.**: 2020.09 - 2023.07, [China University of Petroleum (East China)](https://upc.edu.cn/), Qingdao, China. (with highest honors: The 17th Top 10 Academic Nominee of Postgraduates)
+> IEEE Network Magazine
 
+> IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
 
+> IEEE Transactions on Vehicular Technology (IEEE TVT)
+
+> IEEE Internet of Things Journal (IEEE IoT-J)
+
+> IEEE Transactions on Network and Service Management (IEEE TNSM)
+
+> IEEE Transactions on Multimedia (IEEE TMM)
+
+> Future Generation Computer Systems (FGCS)
+
+> Pattern Recognition (PR)
+
+> Knowledge-Based Systems (KBS)
+
+> Engineering Applications of Artificial Intelligence (EAAI)
+
+> The 5th International Conference on Machine Learning and Intelligent Systems (MLIS 2023)
+
+> Recent advances in electrical & electronic engineering
+
+> ......
