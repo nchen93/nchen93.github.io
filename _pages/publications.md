@@ -11,7 +11,7 @@ author_profile: true
 
 > 【**<font color=red>IEEE COMST</font>, SCI一区, IF: 35.6**】[AI-Empowered Virtual Network Embedding: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/10587211), **IEEE Communications Surveys & Tutorials**, 2024.
 
-> 【**<font color=red>IEEE Network</font>, SCI一区, IF: 10.294**】[AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook](https://ieeexplore.ieee.org/abstract/document/10443704), **IEEE Network**, 2024.
+> 【**<font color=red>IEEE Network</font>, SCI一区, IF: 10.294**】[AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook](https://ieeexplore.ieee.org/abstract/document/10443704), **IEEE Network**, 2024. 
 
 > 【**<font color=red>IEEE TII</font>, SCI一区, IF: 11.648**】[Virtual Network Embedding for Task Offloading in IIoT: A DRL-Assisted Federated Learning Scheme](https://ieeexplore.ieee.org/abstract/document/10413579), **IEEE Transactions on Industrial Informatics**, 20(4): 6814-6824, 2024.
 
