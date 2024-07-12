@@ -34,7 +34,7 @@ Publications
 
 > [AI-Enabled Space-Air-Ground Integrated Networks: Management and Optimization](https://ieeexplore.ieee.org/abstract/document/10103768), **IEEE Network**, 38(2): 186-192, 2024. **IF: 10.294**.
 
-> [Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture], **Knowledge-Based Systems**, 257: 109931, 2022. **IF: 8.139**.
+> [Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243), **Knowledge-Based Systems**, 257: 109931, 2022. **IF: 8.139**.
 
 > [Multi-Target-Aware Dynamic Resource Scheduling for Cloud-Fog-Edge Multi-Tier Computing Network](https://ieeexplore.ieee.org/abstract/document/10323248), **IEEE Transactions on Intelligent Transportation Systems**, 25(5):3885-3897, 2024. **IF: 9.551**.
 
