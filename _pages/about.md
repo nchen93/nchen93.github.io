@@ -66,21 +66,20 @@ Publications
 
 Reviewer
 ------
-(1) IEEE Transactions on Industrial Informatics (IEEE TII)
-(2) IEEE Network Magazine
-(3) IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
-(4) IEEE Transactions on Vehicular Technology (IEEE TVT)
-(5) IEEE Internet of Things Journal (IEEE IoT-J)
-(6) IEEE Transactions on Network and Service Management (IEEE TNSM)
-(7) IEEE Transactions on Multimedia (IEEE TMM)
-(8) Future Generation Computer Systems (FGCS)
-(9) Pattern Recognition (PR)
-(10) Knowledge-Based Systems (KBS)
-(11) Engineering Applications of Artificial Intelligence (EAAI)
-(12) The 5th International Conference on Machine Learning and Intelligent Systems (MLIS 2023)
-(13) Recent advances in electrical & electronic engineering
-......
-
+1. IEEE Transactions on Industrial Informatics (IEEE TII)
+2. IEEE Network Magazine
+3. IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
+4. IEEE Transactions on Vehicular Technology (IEEE TVT)
+5. IEEE Internet of Things Journal (IEEE IoT-J)
+6. IEEE Transactions on Network and Service Management (IEEE TNSM)
+7. IEEE Transactions on Multimedia (IEEE TMM)
+8. Future Generation Computer Systems (FGCS)
+9. Pattern Recognition (PR)
+10. Knowledge-Based Systems (KBS)
+11. Engineering Applications of Artificial Intelligence (EAAI)
+12. The 5th International Conference on Machine Learning and Intelligent Systems (MLIS 2023)
+13. Recent advances in electrical & electronic engineering
+14. ......
 
 Create content & metadata
 ------
