@@ -64,55 +64,55 @@ Publications
 
 Honors and Awards
 ======
-* **National Postgraduate Scholarship** (ID:SSY202208819), 2022-12, Ministry of Education of the People's Republic of China.
+* **<font color=red>National Postgraduate Scholarship</font>** (ID:SSY202208819), 2022-12, Ministry of Education of the People's Republic of China.
 
-* **Second Prize of Shandong Province Postgraduate Innovation Achievement Award** (ID:2022CXCG101), 2022-12-30, Shandong Provincial Department of Education, China.
+* **<font color=red>Second Prize of Shandong Province Postgraduate Innovation Achievement Award</font>** (ID:2022CXCG101), 2022-12-30, Shandong Provincial Department of Education, China.
 
-* **Outstanding Graduates of Shandong Province** (ID:GXYP23YZS10425N428978730-8E94A390E3), 2023-04-17, Human Resources and Social Security Department of Shandong Province, China.
+* **<font color=red>Outstanding Graduates of Shandong Province</font>** (ID:GXYP23YZS10425N428978730-8E94A390E3), 2023-04-17, Human Resources and Social Security Department of Shandong Province, China.
 
-* **One thousand outstanding college students in Qingdao City**, 2023-05, Qingdao Municipal Education Bureau, China.
+* **<font color=red>One thousand outstanding college students in Qingdao City</font>**, 2023-05, Qingdao Municipal Education Bureau, China.
 
-* **The 17th Top 10 Academic Nominee of Postgraduates**, 2022-11-12, China University of Petroleum (East China), China.
+* **<font color=red>The 17th Top 10 Academic Nominee of Postgraduates</font>**, 2022-11-12, China University of Petroleum (East China), China.
 
-* **Outstanding Master's Thesis of 2023**, 2023-06-20, China University of Petroleum (East China), China.
+* **<font color=red>Outstanding Master's Thesis of 2023</font>**, 2023-06-20, China University of Petroleum (East China), China.
 
 
 Reviewer
 ======
-* IEEE Transactions on Industrial Informatics (IEEE TII)
+* **IEEE Transactions on Industrial Informatics** (IEEE TII)
 
-* IEEE Network Magazine
+* **IEEE Network Magazine**
 
-* IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
+* **IEEE Transactions on Intelligent Transportation Systems** (IEEE TITS)
 
-* IEEE Transactions on Vehicular Technology (IEEE TVT)
+* **IEEE Transactions on Vehicular Technology** (IEEE TVT)
 
-* IEEE Internet of Things Journal (IEEE IoT-J)
+* **IEEE Internet of Things Journal** (IEEE IoT-J)
 
-* IEEE Transactions on Network and Service Management (IEEE TNSM)
+* **IEEE Transactions on Network and Service Management** (IEEE TNSM)
 
-* IEEE Transactions on Multimedia (IEEE TMM)
+* **IEEE Transactions on Multimedia** (IEEE TMM)
 
-* Future Generation Computer Systems (FGCS)
+* **Future Generation Computer Systems** (FGCS)
 
-* Pattern Recognition (PR)
+* **Pattern Recognition** (PR)
 
-* Knowledge-Based Systems (KBS)
+* **Knowledge-Based Systems** (KBS)
 
-* Engineering Applications of Artificial Intelligence (EAAI)
+* **Engineering Applications of Artificial Intelligence** (EAAI)
 
-* The 5th International Conference on Machine Learning and Intelligent Systems (MLIS 2023)
+* **The 5th International Conference on Machine Learning and Intelligent Systems** (MLIS 2023)
 
-* Recent advances in electrical & electronic engineering
+* **Recent advances in electrical & electronic engineering**
 
 *  ......
 
 
 TPC of International Conference
 ======
-*  [2025 International Conference on Applied Mathematics, Modeling and Artificial Intelligence (AMMAI 2025)](https://ammai.easyaca.com.cn/)
+*  [**2025 International Conference on Applied Mathematics, Modeling and Artificial Intelligence (AMMAI 2025)**](https://ammai.easyaca.com.cn/)
 
-*  [2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering (MMRCE 2024)](https://mmrce.easyaca.com.cn//)
+*  [**2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering (MMRCE 2024)**](https://mmrce.easyaca.com.cn//)
 
 
 Contact me
