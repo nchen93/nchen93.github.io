@@ -6,13 +6,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently pursuing the Ph.D. degree with [Beijing University of Posts and Telecommunications (BUPT)](https://sice.bupt.edu.cn/), Beijing, China. My research interests include **Space-Air-Ground Integrated Networks**, **Network Virtualization**, **Satellite Communications**, and **Artificial Intelligence for Networking**.
+* I'm currently pursuing the Ph.D. degree with [Beijing University of Posts and Telecommunications (BUPT)](https://sice.bupt.edu.cn/), Beijing, China. My research interests include **Space-Air-Ground Integrated Networks**, **Network Virtualization**, **Satellite Communications**, and **Artificial Intelligence for Networking**.
 
 I have published more than twenty high-level articles, including **IEEE Communications Surveys and Tutorials**, **IEEE Wireless Communications**, **IEEE Network**, **IEEE Transactions on Industrial Informatics**, **IEEE Transactions on Information Forensics and Security**, **IEEE Transactions on Intelligent Transportation Systems**, etc. 
 
 I'm serving as a reviewer for several journals/conferences, such as IEEE TII, IEEE Network, IEEE T-ITS, IEEE TVT, IEEE TNSM, IEEE TMM, IEEE IoT-J, etc. And, I'm serving as the TPC of the 2025 International Conference on Applied Mathematics, Modeling and Artificial Intelligence ([AMMAI 2025](https://ammai.easyaca.com.cn/)), the 2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering ([MMRCE 2024](https://mmrce.easyaca.com.cn//)). 
 
-I have received more than ten outstanding awards and honors from the government and academia, including **<font color=red>National Postgraduate Scholarships</font>**, **<font color=red>Second Prize of Shandong Province Postgraduate Innovation Achievement Award</font>**, **<font color=red>Outstanding Graduates of Shandong Province</font>**, etc. I have received funding from **<font color=red>BUPT Excellent Ph.D. Students Foundation</font>**.
+I have received more than ten outstanding awards and honors from the government and academia, including **National Postgraduate Scholarships**, **Second Prize of Shandong Province Postgraduate Innovation Achievement Award**, **Outstanding Graduates of Shandong Province**, etc. I have received funding from **BUPT Excellent Ph.D. Students Foundation**.
 
 Educations
 ======
