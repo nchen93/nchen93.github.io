@@ -45,6 +45,6 @@ author_profile: true
 
 > 【**IJCS, SCI四区**】[Edge Computing Network Resource Allocation Based on Virtual Network Embedding](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.5344), **International Journal of Communication Systems**, e5344, 2022. **IF: 1.882**.
 
-> 【**Electronics, SCI四区**】[Flow-Based Joint Programming of Time Sensitive Task and Network](https://www.mdpi.com/2079-9292/12/19/4103), **Electronics**, 12(19), 4103, 2023. IF: 2.9.
+> 【**Electronics, SCI三区**】[Flow-Based Joint Programming of Time Sensitive Task and Network](https://www.mdpi.com/2079-9292/12/19/4103), **Electronics**, 12(19), 4103, 2023. IF: 2.9.
 
 > 【**IEEE ICC, EI**】[Intelligent Requests Orchestration for Microservice Management Based on Blockchain in Software Defined Networking: a Security Guarantee](https://ieeexplore.ieee.org/abstract/document/9814536), **2022 IEEE International Conference on Communications Workshops (ICC Workshops)**, 254-259, 2022.
