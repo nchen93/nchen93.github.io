@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/nchen.png"
+  avatar           : "/images/nchen.png"
   name             : "Ning Chen"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student of School pf Information and Communication Engineering, Beijing University of Posts and Telecommunications"
