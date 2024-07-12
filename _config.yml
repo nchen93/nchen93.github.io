@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ning Chen"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Ning Chen"
 description              : &description "personal description"
 url                      : https://nchen93.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "nchen.png"
   name             : "Ning Chen"
-  pronouns         : # example: "she/her"  
+  pronouns         : "Dr."
   bio              : "Ph.D. Student of School pf Information and Communication Engineering, Beijing University of Posts and Telecommunications"
   location         : "Beijing, China"
   employer         : "Beijing University of Posts and Telecommunications"
