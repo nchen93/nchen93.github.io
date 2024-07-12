@@ -22,15 +22,35 @@ Educations
 
 > M.S.: 2020.09 - 2023.07, China University of Petroleum (East China), Qingdao, China. (with highest honors: The 17th Top 10 Academic Nominee of Postgraduates)
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+> [AI-Empowered Virtual Network Embedding: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/10587211), **IEEE Communications Surveys & Tutorials**, 2024. **IF: 35.6**.
 
+> [AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook](https://ieeexplore.ieee.org/abstract/document/10443704), **IEEE Network**, 2024. **IF: 10.294**.
+
+> [Virtual Network Embedding for Task Offloading in IIoT: A DRL-Assisted Federated Learning Scheme](https://ieeexplore.ieee.org/abstract/document/10413579), **IEEE Transactions on Industrial Informatics**, 20(4): 6814-6824, 2024. **IF: 11.648**.
+
+> [Future Quantum Communications and Networking: A Review and Vision](https://ieeexplore.ieee.org/abstract/document/9928082), **IEEE Wireless Communications**, 31(1): 141-148, 2024. **IF: 12.777**.
+
+> [AI-Enabled Space-Air-Ground Integrated Networks: Management and Optimization](https://ieeexplore.ieee.org/abstract/document/10103768), **IEEE Network**, 38(2): 186-192, 2024. **IF: 10.294**.
+
+> [Multi-Target-Aware Dynamic Resource Scheduling for Cloud-Fog-Edge Multi-Tier Computing Network](https://ieeexplore.ieee.org/abstract/document/10323248), **IEEE Transactions on Intelligent Transportation Systems**, 25(5):3885-3897, 2024. **IF: 9.551**.
+
+> [Multi-Domain Virtual Network Embedding Algorithm Based on Horizontal Federated Learning](https://ieeexplore.ieee.org/abstract/document/10132867), **IEEE Transactions on Information Forensics and Security**, 18: 3363-3375, 2023. **IF: 7.231**.
+
+> [Energy Allocation for Vehicle-to-Grid Settings: A Low-Cost Proposal Combining DRL and VNE](https://ieeexplore.ieee.org/abstract/document/10226295), **IEEE Transactions on Sustainable Computing**, 9(1): 75-87, 2024. **IF: 4.908**.
+
+>[FDSA-STG: Fully Dynamic Self-Attention Spatio-Temporal Graph Networks for Intelligent Traffic Flow Prediction](https://ieeexplore.ieee.org/abstract/document/9782553), **IEEE Transactions on Vehicular Technology**, 71(9): 9250-9260, 2022. **IF: 6.239**.
+
+> [A Web Knowledge-Driven Multimodal Retrieval Method in Computational Social Systems: Unsupervised and Robust Graph Convolutional Hashing](https://ieeexplore.ieee.org/abstract/document/9941497), **IEEE Transactions on Computational Social Systems**, 11(3): 3146-3156, 2024. **IF: 4.747**.
+
+> [Distributed Deep Reinforcement Learning Assisted Resource Allocation Algorithm for Space-Air-Ground Integrated Networks](https://ieeexplore.ieee.org/abstract/document/9999560),  **IEEE Transactions on Network and Service Management**, 20(3): 3348-3358, 2022. **IF: 4.758**.
+
+> [Transformer-Based Discriminative and Strong Representation Deep Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10343159), **IEEE Access**, 11: 140041-140055, 2023. **IF=3.476**.
+
+> [Flow-Based Joint Programming of Time Sensitive Task and Network](https://www.mdpi.com/2079-9292/12/19/4103), **Electronics**, 12(19), 4103, 2023. IF=2.9.
+
+> 
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
