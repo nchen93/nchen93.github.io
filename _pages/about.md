@@ -114,6 +114,6 @@ TPC of International Conference
 
 > [2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering (MMRCE 2024)](https://mmrce.easyaca.com.cn//)
 
-For more info
+Contact me
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+For academic cooperation or other matters, please contact me, [email](nchen@bupt.edu.cn).
