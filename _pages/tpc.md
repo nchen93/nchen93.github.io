@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "TPC of International Conference"
+title: "TPC"
 permalink: /tpc/
 author_profile: true
 ---
