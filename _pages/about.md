@@ -34,9 +34,13 @@ Publications
 
 > [AI-Enabled Space-Air-Ground Integrated Networks: Management and Optimization](https://ieeexplore.ieee.org/abstract/document/10103768), **IEEE Network**, 38(2): 186-192, 2024. **IF: 10.294**.
 
+> [Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture], **Knowledge-Based Systems**, 257: 109931, 2022. **IF: 8.139**
+
 > [Multi-Target-Aware Dynamic Resource Scheduling for Cloud-Fog-Edge Multi-Tier Computing Network](https://ieeexplore.ieee.org/abstract/document/10323248), **IEEE Transactions on Intelligent Transportation Systems**, 25(5):3885-3897, 2024. **IF: 9.551**.
 
 > [Multi-Domain Virtual Network Embedding Algorithm Based on Horizontal Federated Learning](https://ieeexplore.ieee.org/abstract/document/10132867), **IEEE Transactions on Information Forensics and Security**, 18: 3363-3375, 2023. **IF: 7.231**.
+
+> [Non-Euclidean Graph-Convolution Virtual Network Embedding for Space–Air–Ground Integrated Networks](https://www.mdpi.com/2504-446X/7/3/165), **Drones**, 7(3), 165, 2023. **IF: 5.532**.
 
 > [Energy Allocation for Vehicle-to-Grid Settings: A Low-Cost Proposal Combining DRL and VNE](https://ieeexplore.ieee.org/abstract/document/10226295), **IEEE Transactions on Sustainable Computing**, 9(1): 75-87, 2024. **IF: 4.908**.
 
@@ -46,9 +50,11 @@ Publications
 
 > [Distributed Deep Reinforcement Learning Assisted Resource Allocation Algorithm for Space-Air-Ground Integrated Networks](https://ieeexplore.ieee.org/abstract/document/9999560),  **IEEE Transactions on Network and Service Management**, 20(3): 3348-3358, 2022. **IF: 4.758**.
 
-> [Transformer-Based Discriminative and Strong Representation Deep Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10343159), **IEEE Access**, 11: 140041-140055, 2023. **IF=3.476**.
+> [Transformer-Based Discriminative and Strong Representation Deep Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10343159), **IEEE Access**, 11: 140041-140055, 2023. **IF: 3.476**.
 
-> [Flow-Based Joint Programming of Time Sensitive Task and Network](https://www.mdpi.com/2079-9292/12/19/4103), **Electronics**, 12(19), 4103, 2023. IF=2.9.
+> [Multi-Target-Aware Energy Orchestration Modeling for Grid 2.0: A Network Virtualization Approach](https://ieeexplore.ieee.org/abstract/document/10057385), **IEEE Access**, 11: 21699-21711, 2023. **IF: 3.476**. 
+
+> [Flow-Based Joint Programming of Time Sensitive Task and Network](https://www.mdpi.com/2079-9292/12/19/4103), **Electronics**, 12(19), 4103, 2023. IF: 2.9.
 
 > 
 Site-wide configuration
