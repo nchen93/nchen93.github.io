@@ -80,38 +80,26 @@ Honors and Awards
 
 Reviewer
 ------
-1. IEEE Transactions on Industrial Informatics (IEEE TII)
-2. IEEE Network Magazine
-3. IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
-4. IEEE Transactions on Vehicular Technology (IEEE TVT)
-5. IEEE Internet of Things Journal (IEEE IoT-J)
-6. IEEE Transactions on Network and Service Management (IEEE TNSM)
-7. IEEE Transactions on Multimedia (IEEE TMM)
-8. Future Generation Computer Systems (FGCS)
-9. Pattern Recognition (PR)
-10. Knowledge-Based Systems (KBS)
-11. Engineering Applications of Artificial Intelligence (EAAI)
-12. The 5th International Conference on Machine Learning and Intelligent Systems (MLIS 2023)
-13. Recent advances in electrical & electronic engineering
-14. ......
+· IEEE Transactions on Industrial Informatics (IEEE TII)
+· IEEE Network Magazine
+· IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
+· IEEE Transactions on Vehicular Technology (IEEE TVT)
+· IEEE Internet of Things Journal (IEEE IoT-J)
+· IEEE Transactions on Network and Service Management (IEEE TNSM)
+· IEEE Transactions on Multimedia (IEEE TMM)
+· Future Generation Computer Systems (FGCS)
+· Pattern Recognition (PR)
+· Knowledge-Based Systems (KBS)
+· Engineering Applications of Artificial Intelligence (EAAI)
+· The 5th International Conference on Machine Learning and Intelligent Systems (MLIS 2023)
+· Recent advances in electrical & electronic engineering
+· ......
 
 TPC of International Conference
 ------
 > [2025 International Conference on Applied Mathematics, Modeling and Artificial Intelligence (AMMAI 2025)](https://ammai.easyaca.com.cn/)
 
 > [2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering (MMRCE 2024)](https://mmrce.easyaca.com.cn//)
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
