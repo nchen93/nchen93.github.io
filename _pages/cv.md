@@ -5,7 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include base_path %}
 
 I'm currently pursuing the Ph.D. degree with the [School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT)](https://sice.bupt.edu.cn/), Beijing, China. My research interests include **Space-Air-Ground Integrated Networks**, **Resource Allocation**, **Network Virtualization**, **Satellite Communications**, and **Artificial Intelligence for Networking**.
 
