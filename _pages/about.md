@@ -29,7 +29,7 @@ Publications
 
 *  【**<font color=red>IEEE WCM</font>, IF: 12.777**】[Future Quantum Communications and Networking: A Review and Vision](https://ieeexplore.ieee.org/abstract/document/9928082), **IEEE Wireless Communications**, 31(1): 141-148, 2024. 
 
-*  【**<font color=red>IEEE Network</font>, IF: 10.294**】[AI-Enabled Space-Air-Ground Integrated Networks: Management and Optimization](https://ieeexplore.ieee.org/abstract/document/10103768), **IEEE Network**, 38(2): 186-192, 2024. (**<font color=red>ESI Highly Cited Paper & ESI Hot Paper</font>**)
+*  【**<font color=red>IEEE Network</font>, IF: 10.294**】[AI-Enabled Space-Air-Ground Integrated Networks: Management and Optimization](https://ieeexplore.ieee.org/abstract/document/10103768), **IEEE Network**, 38(2): 186-192, 2024. (**<font color=green>ESI Highly Cited Paper & ESI Hot Paper</font>**)
 
 *  【**<font color=red>KBS</font>, IF: 8.139**】[Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243), **Knowledge-Based Systems**, 257: 109931, 2022.
 
