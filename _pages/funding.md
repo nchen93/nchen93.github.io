@@ -1,5 +1,10 @@
-Funded Project
-======
+---
+layout: archive
+title: "Funded Projects"
+permalink: /funding/
+author_profile: true
+---
+
 ### Host
 * [Research on Service-Driven Multi-Satellite Collaborative Beam Resource Management Method], **<font color=red>BUPT Excellent Ph.D. Students Foundation</font>**, **CX20241074**, 2024.05-2026.04.
 
