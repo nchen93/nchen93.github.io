@@ -79,18 +79,16 @@ Honors and Awards
 Funded Project
 ======
 ### Host
-* 【<font color=blue>Research on Service-Driven Multi-Satellite Collaborative Beam Resource Management Method</font>】, **<font color=red>BUPT Excellent Ph.D. Students Foundation</font>**, **CX20241074**, 2024.05-2026.04.
+* 【<font color=blue>**业务驱动的多星协同波束资源管理方法研究: Research on Service-Driven Multi-Satellite Collaborative Beam Resource Management Method**</font>】, **<font color=red>BUPT Excellent Ph.D. Students Foundation</font>**, **CX20241074**, 2024.05-2026.04.
 
 ### Participate
-* 【<font color=blue>Research on Key Technologies of Edge Collaborative Video Transmission Based on Communication-Perception Fusion</font>】, **<font color=red>Fundamental Research Funds for the Central Universities</font>**, **BUPT2024RC01**, **2/5**, 30 CNY, 2024.05-2025.10.
+* 【<font color=blue>**通感融合的边缘协同视频传输关键技术研究: Research on Key Technologies of Edge Collaborative Video Transmission Based on Communication-Perception Fusion**</font>】, **<font color=red>Fundamental Research Funds for the Central Universities</font>**, **BUPT2024RC01**, **2/5**, 30 CNY, 2024.05-2025.10.
 
-* 【<font color=blue>Communication Signal Intelligent Identification Algorithm Module</font>】, **<font color=red>Lateral Project"</font>**, **2/5**, 48 CNY, 2023.09-2024.7.30.
+* 【<font color=blue>**通信信号********: Communication Signal**********</font>】, **<font color=red>Lateral Project"</font>**, **2/5**, 48 CNY, 2023.09-2024.7.30.
 
-* 【<font color=blue>Multi-Source Data Acquisition, Processing and Simulation Platform for Maritime Targets</font>】, **<font color=red>Lateral Project"</font>**, **2/5**, 49.38 CNY, 2023.06.01-2024.9.30.
+* 【<font color=blue>**海上目标多源数据采集处理与仿真平台: Multi-Source Data Acquisition, Processing and Simulation Platform for Maritime Targets**</font>】, **<font color=red>Lateral Project"</font>**, **2/5**, 49.38 CNY, 2023.06.01-2024.9.30.
 
-* 【<font color=blue>Theory and Technology for User Seamless Access and Adaptive Transmission in Space-Air-Ground Integrated Networks</font>】, **<font color=red>National Natural Science Foundation of Chinat"</font>**, **62341104**, 388.8 CNY, 2023.07.01-2025.12.31.
-
-* 【<font color=blue>Theory and Technology for User Seamless Access and Adaptive Transmission in Space-Air-Ground Integrated Networks</font>】, **<font color=red>National Natural Science Foundation of China"</font>**, **62341104**, 388.8 CNY, 2023.07.01-2025.12.31.
+* 【<font color=blue>**用户无感的天空地一体化接入与适变传输理论与技术: Theory and Technology for User Seamless Access and Adaptive Transmission in Space-Air-Ground Integrated Networks**</font>】, **<font color=red>National Natural Science Foundation of Chinat"</font>**, **62341104**, 388.8 CNY, 2023.07.01-2025.12.31.
 
 * 【<font color=blue>面向原位数据计算的多层次多策略调度机制研究</font>】, **<font color=red>Natural Science Foundation of Shandong Province"</font>**, **ZR2023LZH017**, 115 CNY, 2024.01-2026.12.
 
