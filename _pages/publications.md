@@ -81,6 +81,17 @@ author_profile: true
 }`
 
 * 【**<font color=red>IEEE T-ITS</font>, IF: 9.551**】[Multi-Target-Aware Dynamic Resource Scheduling for Cloud-Fog-Edge Multi-Tier Computing Network](https://ieeexplore.ieee.org/abstract/document/10323248), **IEEE Transactions on Intelligent Transportation Systems**, 25(5):3885-3897, 2024.
+>`@ARTICLE{10323248,
+  author={Zhang, Peiying and Chen, Ning and Xu, Guanjun and Kumar, Neeraj and Barnawi, Ahmed and Guizani, Mohsen and Duan, Youxiang and Yu, Keping},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Multi-Target-Aware Dynamic Resource Scheduling for Cloud-Fog-Edge Multi-Tier Computing Network}, 
+  year={2024},
+  volume={25},
+  number={5},
+  pages={3885-3897},
+  keywords={Task analysis;Cloud computing;Quality of service;Industrial Internet of Things;Search problems;Heuristic algorithms;Dynamic scheduling;Multi-tier computing networks;sustainable solutions;intelligent transportation systems;resource scheduling;virtual network embedding;deep reinforcement learning},
+  doi={10.1109/TITS.2023.3330419}}`
+
 
 * 【**<font color=red>IEEE TIFS</font>, IF: 7.231**】[Multi-Domain Virtual Network Embedding Algorithm Based on Horizontal Federated Learning](https://ieeexplore.ieee.org/abstract/document/10132867), **IEEE Transactions on Information Forensics and Security**, 18: 3363-3375, 2023. 
 
