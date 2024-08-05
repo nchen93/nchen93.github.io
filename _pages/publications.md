@@ -22,7 +22,7 @@ author_profile: true
 `
 
 * 【**<font color=red>IEEE Network</font>, IF: 10.294**】[AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook](https://ieeexplore.ieee.org/abstract/document/10443704), **IEEE Network**, 2024.
-> @ARTICLE{10443704,
+>> @ARTICLE{10443704,
   author={Wu, Sheng and Chen, Ning and Xiao, Ailing and Jia, Haoge and Jiang, Chunxiao and Zhang, Peiying},
   journal={IEEE Network}, 
   title={AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook}, 
