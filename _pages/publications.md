@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}  
 
 * 【**<font color=red>IEEE COMST</font>, IF: 35.6**】[AI-Empowered Virtual Network Embedding: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/10587211), **IEEE Communications Surveys & Tutorials**, 2024.
->``@ARTICLE{10587211,
+>`@ARTICLE{10587211,
   author={Wu, Sheng and Chen, Ning and Xiao, Ailing and Zhang, Peiying and Jiang, Chunxiao and Zhang, Wei},
   journal={IEEE Communications Surveys & Tutorials}, 
   title={AI-Empowered Virtual Network Embedding:A Comprehensive Survey}, 
@@ -18,11 +18,11 @@ author_profile: true
   volume={},
   number={},
   pages={1-1},
-  url={doi: 10.1109/COMST.2024.3424533}}`
+  url={doi: 10.1109/COMST.2024.3424533}}
 `
 
 * 【**<font color=red>IEEE Network</font>, IF: 10.294**】[AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook](https://ieeexplore.ieee.org/abstract/document/10443704), **IEEE Network**, 2024.
->``@ARTICLE{10443704,
+>`@ARTICLE{10443704,
   author={Wu, Sheng and Chen, Ning and Xiao, Ailing and Jia, Haoge and Jiang, Chunxiao and Zhang, Peiying},
   journal={IEEE Network}, 
   title={AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook}, 
@@ -34,7 +34,7 @@ author_profile: true
 
 
 * 【**<font color=red>IEEE TII</font>, IF: 11.648**】[Virtual Network Embedding for Task Offloading in IIoT: A DRL-Assisted Federated Learning Scheme](https://ieeexplore.ieee.org/abstract/document/10413579), **IEEE Transactions on Industrial Informatics**, 20(4): 6814-6824, 2024.
->@ARTICLE{10413579,
+> `@ARTICLE{10413579,
   author={Wu, Sheng and Chen, Ning and Wen, Guanghui and Xu, Long and Zhang, Peiying and Zhu, Hailong},
   journal={IEEE Transactions on Industrial Informatics}, 
   title={Virtual Network Embedding for Task Offloading in IIoT: A DRL-Assisted Federated Learning Scheme}, 
@@ -46,7 +46,7 @@ author_profile: true
 
 
 * 【**<font color=red>IEEE WCM</font>, IF: 12.777**】[Future Quantum Communications and Networking: A Review and Vision](https://ieeexplore.ieee.org/abstract/document/9928082), **IEEE Wireless Communications**, 31(1): 141-148, 2024.
-> @ARTICLE{9928082,
+> `@ARTICLE{9928082,
   author={Zhang, Peiying and Chen, Ning and Shen, Shigen and Yu, Shui and Wu, Sheng and Kumar, Neeraj},
   journal={IEEE Wireless Communications}, 
   title={Future Quantum Communications and Networking: A Review and Vision}, 
@@ -58,7 +58,7 @@ author_profile: true
 
 
 * 【**<font color=red>IEEE Network</font>, IF: 10.294**】[AI-Enabled Space-Air-Ground Integrated Networks: Management and Optimization](https://ieeexplore.ieee.org/abstract/document/10103768), **IEEE Network**, 38(2): 186-192, 2024. (**<font color=red>ESI Highly Cited Paper & ESI Hot Paper</font>**)
->@ARTICLE{10103768,
+> `@ARTICLE{10103768,
   author={Zhang, Peiying and Chen, Ning and Shen, Shigen and Yu, Shui and Kumar, Neeraj and Hsu, Ching-Hsien},
   journal={IEEE Network}, 
   title={AI-Enabled Space-Air-Ground Integrated Networks: Management and Optimization}, 
@@ -70,7 +70,7 @@ author_profile: true
 
 
 * 【**<font color=red>KBS</font>, IF: 8.139**】[Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243), **Knowledge-Based Systems**, 257: 109931, 2022.
->@article{chen2022spectral,
+>` @article{chen2022spectral,
   title={Spectral graph theory-based virtual network embedding for vehicular fog computing: A deep reinforcement learning architecture},
   author={Chen, Ning and Zhang, Peiying and Kumar, Neeraj and Hsu, Ching-Hsien and Abualigah, Laith and Zhu, Hailong},
   journal={Knowledge-Based Systems},
