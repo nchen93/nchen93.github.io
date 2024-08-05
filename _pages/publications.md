@@ -92,19 +92,88 @@ author_profile: true
   doi={10.1109/TITS.2023.3330419}}`
 
 
-* 【**<font color=red>IEEE TIFS</font>, IF: 7.231**】[Multi-Domain Virtual Network Embedding Algorithm Based on Horizontal Federated Learning](https://ieeexplore.ieee.org/abstract/document/10132867), **IEEE Transactions on Information Forensics and Security**, 18: 3363-3375, 2023. 
+* 【**<font color=red>IEEE TIFS</font>, IF: 7.231**】[Multi-Domain Virtual Network Embedding Algorithm Based on Horizontal Federated Learning](https://ieeexplore.ieee.org/abstract/document/10132867), **IEEE Transactions on Information Forensics and Security**, 18: 3363-3375, 2023.
+>`@ARTICLE{10132867,
+  author={Zhang, Peiying and Chen, Ning and Li, Shibao and Choo, Kim-Kwang Raymond and Jiang, Chunxiao and Wu, Sheng},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Multi-Domain Virtual Network Embedding Algorithm Based on Horizontal Federated Learning}, 
+  year={2023},
+  volume={18},
+  number={},
+  pages={3363-3375},
+  doi={10.1109/TIFS.2023.3279587}}`
+
 
 * 【**<font color=red>PR</font>, IF: 8.518**】[MS2GAH: Multi-label Semantic Supervised Graph Attention Hashing for Robust Cross-Modal Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001571), **Pattern Recognition**, 128: 108676, 2022. 
+>`@article{duan2022ms2gah,
+  title={MS2GAH: Multi-label semantic supervised graph attention hashing for robust cross-modal retrieval},
+  author={Duan, Youxiang and Chen, Ning and Zhang, Peiying and Kumar, Neeraj and Chang, Lunjie and Wen, Wu},
+  journal={Pattern Recognition},
+  volume={128},
+  pages={108676},
+  year={2022},
+  publisher={Elsevier}
+}`
 
 * 【**<font color=red>Drones</font>,IF: 5.532**】[Non-Euclidean Graph-Convolution Virtual Network Embedding for Space–Air–Ground Integrated Networks](https://www.mdpi.com/2504-446X/7/3/165), **Drones**, 7(3), 165, 2023. 
+>`@article{chen2023non,
+  title={Non-Euclidean graph-convolution virtual network embedding for space--air--ground integrated networks},
+  author={Chen, Ning and Shen, Shigen and Duan, Youxiang and Huang, Siyu and Zhang, Wei and Tan, Lizhuang},
+  journal={Drones},
+  volume={7},
+  number={3},
+  pages={165},
+  year={2023},
+  publisher={MDPI}
+}`
 
 * 【**<font color=red>IEEE TSUSC</font>, IF: 4.908**】[Energy Allocation for Vehicle-to-Grid Settings: A Low-Cost Proposal Combining DRL and VNE](https://ieeexplore.ieee.org/abstract/document/10226295), **IEEE Transactions on Sustainable Computing**, 9(1): 75-87, 2024.
+>`@ARTICLE{10226295,
+  author={Zhang, Peiying and Chen, Ning and Kumar, Neeraj and Abualigah, Laith and Guizani, Mohsen and Duan, Youxiang and Wang, Jian and Wu, Sheng},
+  journal={IEEE Transactions on Sustainable Computing}, 
+  title={Energy Allocation for Vehicle-to-Grid Settings: A Low-Cost Proposal Combining DRL and VNE}, 
+  year={2024},
+  volume={9},
+  number={1},
+  pages={75-87},
+  doi={10.1109/TSUSC.2023.3307551}}`
 
-* 【**<font color=red>IEEE TVT</font>, IF: 6.239**】[FDSA-STG: Fully Dynamic Self-Attention Spatio-Temporal Graph Networks for Intelligent Traffic Flow Prediction](https://ieeexplore.ieee.org/abstract/document/9782553), **IEEE Transactions on Vehicular Technology**, 71(9): 9250-9260, 2022. 
 
-* 【**<font color=red>IEEE TCSS</font>, IF: 4.747**】[A Web Knowledge-Driven Multimodal Retrieval Method in Computational Social Systems: Unsupervised and Robust Graph Convolutional Hashing](https://ieeexplore.ieee.org/abstract/document/9941497), **IEEE Transactions on Computational Social Systems**, 11(3): 3146-3156, 2024. 
+* 【**<font color=red>IEEE TVT</font>, IF: 6.239**】[FDSA-STG: Fully Dynamic Self-Attention Spatio-Temporal Graph Networks for Intelligent Traffic Flow Prediction](https://ieeexplore.ieee.org/abstract/document/9782553), **IEEE Transactions on Vehicular Technology**, 71(9): 9250-9260, 2022.
+>`@ARTICLE{9782553,
+  author={Duan, Youxiang and Chen, Ning and Shen, Shigen and Zhang, Peiying and Qu, Youyang and Yu, Shui},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={FDSA-STG: Fully Dynamic Self-Attention Spatio-Temporal Graph Networks for Intelligent Traffic Flow Prediction}, 
+  year={2022},
+  volume={71},
+  number={9},
+  pages={9250-9260},
+  doi={10.1109/TVT.2022.3178094}}`
+
+
+* 【**<font color=red>IEEE TCSS</font>, IF: 4.747**】[A Web Knowledge-Driven Multimodal Retrieval Method in Computational Social Systems: Unsupervised and Robust Graph Convolutional Hashing](https://ieeexplore.ieee.org/abstract/document/9941497), **IEEE Transactions on Computational Social Systems**, 11(3): 3146-3156, 2024.
+>`@ARTICLE{9941497,
+  author={Duan, Youxiang and Chen, Ning and Bashir, Ali Kashif and Alshehri, Mohammad Dahman and Liu, Lei and Zhang, Peiying and Yu, Keping},
+  journal={IEEE Transactions on Computational Social Systems}, 
+  title={A Web Knowledge-Driven Multimodal Retrieval Method in Computational Social Systems: Unsupervised and Robust Graph Convolutional Hashing}, 
+  year={2024},
+  volume={11},
+  number={3},
+  pages={3146-3156},
+  doi={10.1109/TCSS.2022.3216621}}`
+
 
 * 【**<font color=red>IEEE TNSM</font>, IF: 4.758**】[Distributed Deep Reinforcement Learning Assisted Resource Allocation Algorithm for Space-Air-Ground Integrated Networks](https://ieeexplore.ieee.org/abstract/document/9999560),  **IEEE Transactions on Network and Service Management**, 20(3): 3348-3358, 2022.
+>`@ARTICLE{9999560,
+  author={Zhang, Peiying and Li, Yuanjie and Kumar, Neeraj and Chen, Ning and Hsu, Ching-Hsien and Barnawi, Ahmed},
+  journal={IEEE Transactions on Network and Service Management}, 
+  title={Distributed Deep Reinforcement Learning Assisted Resource Allocation Algorithm for Space-Air-Ground Integrated Networks}, 
+  year={2023},
+  volume={20},
+  number={3},
+  pages={3348-3358},
+  doi={10.1109/TNSM.2022.3232414}}`
+
 
 * 【**<font color=red>IEEE Access</font>, IF: 3.476**】[CAPSO: Chaos Adaptive Particle Swarm Optimization Algorithm](https://ieeexplore.ieee.org/abstract/document/9732987), **IEEE Access**, 10: 29393-29405, 2022.
 
