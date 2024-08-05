@@ -89,7 +89,6 @@ author_profile: true
   volume={25},
   number={5},
   pages={3885-3897},
-  keywords={Task analysis;Cloud computing;Quality of service;Industrial Internet of Things;Search problems;Heuristic algorithms;Dynamic scheduling;Multi-tier computing networks;sustainable solutions;intelligent transportation systems;resource scheduling;virtual network embedding;deep reinforcement learning},
   doi={10.1109/TITS.2023.3330419}}`
 
 
