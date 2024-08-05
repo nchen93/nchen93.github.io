@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}  
 
 * 【**<font color=red>IEEE COMST</font>, IF: 35.6**】[AI-Empowered Virtual Network Embedding: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/10587211), **IEEE Communications Surveys & Tutorials**, 2024.
->`@ARTICLE{10587211,
+>``@ARTICLE{10587211,
   author={Wu, Sheng and Chen, Ning and Xiao, Ailing and Zhang, Peiying and Jiang, Chunxiao and Zhang, Wei},
   journal={IEEE Communications Surveys & Tutorials}, 
   title={AI-Empowered Virtual Network Embedding:A Comprehensive Survey}, 
@@ -18,11 +18,11 @@ author_profile: true
   volume={},
   number={},
   pages={1-1},
-  url={doi: 10.1109/COMST.2024.3424533}}
+  url={doi: 10.1109/COMST.2024.3424533}}`
 `
 
 * 【**<font color=red>IEEE Network</font>, IF: 10.294**】[AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook](https://ieeexplore.ieee.org/abstract/document/10443704), **IEEE Network**, 2024.
->`@ARTICLE{10443704,
+>``@ARTICLE{10443704,
   author={Wu, Sheng and Chen, Ning and Xiao, Ailing and Jia, Haoge and Jiang, Chunxiao and Zhang, Peiying},
   journal={IEEE Network}, 
   title={AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook}, 
@@ -30,7 +30,7 @@ author_profile: true
   volume={},
   number={},
   pages={1-1},
-  url={doi: 10.1109/MNET.2024.3368753}}
+  url={doi: 10.1109/MNET.2024.3368753}}`
 
 
 * 【**<font color=red>IEEE TII</font>, IF: 11.648**】[Virtual Network Embedding for Task Offloading in IIoT: A DRL-Assisted Federated Learning Scheme](https://ieeexplore.ieee.org/abstract/document/10413579), **IEEE Transactions on Industrial Informatics**, 20(4): 6814-6824, 2024.
