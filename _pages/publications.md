@@ -9,19 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}  
 
-* 【**<font color=red>IEEE COMST</font>, IF: 35.6**】[AI-Empowered Virtual Network Embedding: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/10587211), **IEEE Communications Surveys & Tutorials**, 2024.
-'''
-@ARTICLE{10587211,
-  author={Wu, Sheng and Chen, Ning and Xiao, Ailing and Zhang, Peiying and Jiang, Chunxiao and Zhang, Wei},
-  journal={IEEE Communications Surveys & Tutorials}, 
-  title={AI-Empowered Virtual Network Embedding:A Comprehensive Survey}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Surveys;Tutorials;Resource management;Bandwidth;Virtualization;Computer architecture;Scalability;Network Virtualization;Artificial Intelligence;Virtual Network Embedding;Reinforcement Learning;Satellite-Terrestrial Integrated Networks},
-  doi={10.1109/COMST.2024.3424533}}
-'''
+* 【**<font color=red>IEEE COMST</font>, IF: 35.6**】[`AI-Empowered Virtual Network Embedding: A Comprehensive Survey`](https://ieeexplore.ieee.org/abstract/document/10587211), **IEEE Communications Surveys & Tutorials**, 2024.
 
 * 【**<font color=red>IEEE Network</font>, IF: 10.294**】[AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook](https://ieeexplore.ieee.org/abstract/document/10443704), **IEEE Network**, 2024. 
 
