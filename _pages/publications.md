@@ -176,13 +176,71 @@ author_profile: true
 
 
 * 【**<font color=red>IEEE Access</font>, IF: 3.476**】[CAPSO: Chaos Adaptive Particle Swarm Optimization Algorithm](https://ieeexplore.ieee.org/abstract/document/9732987), **IEEE Access**, 10: 29393-29405, 2022.
+>`@ARTICLE{9732987,
+  author={Duan, Youxiang and Chen, Ning and Chang, Lunjie and Ni, Yongjing and Kumar, S. V. N. Santhosh and Zhang, Peiying},
+  journal={IEEE Access}, 
+  title={CAPSO: Chaos Adaptive Particle Swarm Optimization Algorithm}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={29393-29405},
+  doi={10.1109/ACCESS.2022.3158666}}`
 
 * 【**<font color=red>IEEE Access</font>, IF: 3.476**】[Transformer-Based Discriminative and Strong Representation Deep Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10343159), **IEEE Access**, 11: 140041-140055, 2023.
+>`@ARTICLE{10343159,
+  author={Zhou, Suqing and Han, Yu and Chen, Ning and Huang, Siyu and Igorevich, Kostromitin Konstantin and Luo, Jia and Zhang, Peiying},
+  journal={IEEE Access}, 
+  title={Transformer-Based Discriminative and Strong Representation Deep Hashing for Cross-Modal Retrieval}, 
+  year={2023},
+  volume={11},
+  number={},
+  pages={140041-140055},
+  doi={10.1109/ACCESS.2023.3339581}}`
+
 
 * 【**<font color=red>IEEE Access</font>, IF: 3.476**】[Multi-Target-Aware Energy Orchestration Modeling for Grid 2.0: A Network Virtualization Approach](https://ieeexplore.ieee.org/abstract/document/10057385), **IEEE Access**, 11: 21699-21711, 2023.
+>`@ARTICLE{10057385,
+  author={Wang, Lianzhong and Zheng, Zhe and Chen, Ning and Chi, Yingying and Liu, Yong and Zhu, Hailong and Zhang, Peiying and Kumar, Neeraj},
+  journal={IEEE Access}, 
+  title={Multi-Target-Aware Energy Orchestration Modeling for Grid 2.0: A Network Virtualization Approach}, 
+  year={2023},
+  volume={11},
+  number={},
+  pages={21699-21711},
+  doi={10.1109/ACCESS.2023.3251698}}`
+
 
 * 【**<font color=red>IJCS</font>, IF: 1.882**】[Edge Computing Network Resource Allocation Based on Virtual Network Embedding](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.5344), **International Journal of Communication Systems**, e5344, 2022.
+>`@article{zhan2022edge,
+  title={Edge computing network resource allocation based on virtual network embedding},
+  author={Zhan, Keqiang and Chen, Ning and Santhosh Kumar, Sripathi Venkata Naga and Kibalya, Godfrey and Zhang, Peiying and Zhang, Hongxia},
+  journal={International Journal of Communication Systems},
+  pages={e5344},
+  year={2022},
+  publisher={Wiley Online Library}
+}`
 
 * 【**<font color=red>Electronics</font>, IF: 2.9**】[Flow-Based Joint Programming of Time Sensitive Task and Network](https://www.mdpi.com/2079-9292/12/19/4103), **Electronics**, 12(19), 4103, 2023.
+>`@Article{electronics12194103,
+AUTHOR = {Chi, Yingying and Zhang, Huayu and Liu, Yong and Chen, Ning and Zheng, Zhe and Zhu, Hailong and Zhang, Peiying and Zhan, Haotian},
+TITLE = {Flow-Based Joint Programming of Time Sensitive Task and Network},
+JOURNAL = {Electronics},
+VOLUME = {12},
+YEAR = {2023},
+NUMBER = {19},
+ARTICLE-NUMBER = {4103},
+URL = {https://www.mdpi.com/2079-9292/12/19/4103},
+DOI = {10.3390/electronics12194103}
+}`
 
 * 【**<font color=red>IEEE ICC'22</font>**】[Intelligent Requests Orchestration for Microservice Management Based on Blockchain in Software Defined Networking: a Security Guarantee](https://ieeexplore.ieee.org/abstract/document/9814536), **2022 IEEE International Conference on Communications Workshops (ICC Workshops)**, 254-259, 2022.
+>`@INPROCEEDINGS{9814536,
+  author={Zhang, Yasheng and Li, Chengcheng and Chen, Ning and Zhang, Peiying},
+  booktitle={2022 IEEE International Conference on Communications Workshops (ICC Workshops)}, 
+  title={Intelligent Requests Orchestration for Microservice Management Based on Blockchain in Software Defined Networking: a Security Guarantee}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={254-259},
+  doi={10.1109/ICCWorkshops53468.2022.9814536}}`
+
