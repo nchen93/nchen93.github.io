@@ -12,17 +12,17 @@ I have published more than twenty high-level articles. I'm serving as a reviewer
 
 News
 ======
-> `[August/2024] A collaborative paper was accepted by [**Automated Software Engineering**]!`
+> `[August/2024] A collaborative paper was accepted by Automated Software Engineering!`
 
-> `[July/2024] My paper was accepted by [**IEEE COMST**]!`
+> `[July/2024] My paper was accepted by IEEE COMST!`
 
-> `[June/2024] A collaborative paper was accepted by [**China Communications**]!`
+> `[June/2024] A collaborative paper was accepted by China Communications!`
 
-> `[May/2024] I received funding for **BUPT Excellent Ph.D. Students Foundation**!`
+> `[May/2024] I received funding for BUPT Excellent Ph.D. Students Foundation!`
 
-> `[January/2024] My paper was accepted by [**IEEE Network**]!`
+> `[January/2024] My paper was accepted by IEEE Network!`
 
-> `[January/2024] My paper was accepted by [**IEEE TII**]!`
+> `[January/2024] My paper was accepted by IEEE TII!`
 
 > `......` 
 
