@@ -15,7 +15,7 @@ author_profile: true
 
 * 【**<font color=blue>海上目标多源数据采集处理与仿真平台: Multi-Source Data Acquisition, Processing and Simulation Platform for Maritime Targets</font>**】, **<font color=red>Lateral Project"</font>**, **2/5**, 49.38 CNY, 2023.06.01-2024.9.30.
 
-* 【**<font color=blue>用户无感的天空地一体化接入与适变传输理论与技术: Theory and Technology for User Seamless Access and Adaptive Transmission in Space-Air-Ground Integrated Networks</font>**】, **<font color=red>National Natural Science Foundation of Chinat"</font>**, **62341104**, 388.8 CNY, 2023.07.01-2025.12.31.
+* 【**<font color=blue>用户无感的天空地一体化接入与适变传输理论与技术: Theory and Technology for User Seamless Access and Adaptive Transmission in Space-Air-Ground Integrated Networks</font>**】, **<font color=red>National Natural Science Foundation of China"</font>**, **62341104**, 388.8 CNY, 2023.07.01-2025.12.31.
 
 * 【<font color=blue>面向原位数据计算的多层次多策略调度机制研究</font>】, **<font color=red>Natural Science Foundation of Shandong Province"</font>**, **ZR2023LZH017**, 115 CNY, 2024.01-2026.12.
 
