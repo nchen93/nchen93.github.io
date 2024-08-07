@@ -8,9 +8,7 @@ redirect_from:
 
 I'm currently pursuing the Ph.D. degree with [Beijing University of Posts and Telecommunications (BUPT)](https://sice.bupt.edu.cn/), Beijing, China. My research interests include **Space-Air-Ground Integrated Networks**, **Network Virtualization**, **Satellite Communications**, and **Artificial Intelligence for Networking**.
 
-I have published more than twenty high-level articles. I'm serving as a reviewer for several journals/conferences, such as IEEE TII, IEEE Network, IEEE T-ITS, IEEE TVT, IEEE TNSM, IEEE TMM, IEEE IoT-J, etc. And, I'm serving as the TPC of [AMMAI 2025](https://ammai.easyaca.com.cn/) and [MMRCE 2024](https://mmrce.easyaca.com.cn//). 
-
-I have received more than ten outstanding awards and honors from the government and academia, including **National Postgraduate Scholarships**, **Second Prize of Shandong Province Postgraduate Innovation Achievement Award**, etc. I have received funding from **BUPT Excellent Ph.D. Students Foundation**.
+I have published more than twenty high-level articles. I'm serving as a reviewer for several journals/conferences, such as IEEE TII, IEEE Network, IEEE T-ITS, IEEE TVT, IEEE TNSM, IEEE TMM, IEEE IoT-J, etc. And, I'm serving as the TPC of [AMMAI 2025](https://ammai.easyaca.com.cn/) and [MMRCE 2024](https://mmrce.easyaca.com.cn//). I have received more than ten outstanding awards and honors from the government and academia, including **National Postgraduate Scholarships**, **Second Prize of Shandong Province Postgraduate Innovation Achievement Award**, etc. I have received funding from **BUPT Excellent Ph.D. Students Foundation**.
 
 News
 ======
@@ -25,4 +23,4 @@ News
 
 Contact me
 ======
-For academic cooperation or other matters, please contact me, email: _**<font color=red>nchen@bupt.edu.cn</font>**_.
+For academic cooperation or other matters, please feel free to contact me, email: _**<font color=red>nchen@bupt.edu.cn</font>**_.
