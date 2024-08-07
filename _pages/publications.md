@@ -174,6 +174,9 @@ author_profile: true
   pages={3348-3358},
   doi={10.1109/TNSM.2022.3232414}}`
 
+* 【**<font color=red>ASE</font>, IF: 2**】[Energy Efficient Resource Allocation Based on Virtual Network Embedding for IoT Data Generation],  **Automated Software Engineering**, 2024.
+>`In publishing, not online yet`
+
 
 * 【**<font color=red>IEEE Access</font>, IF: 3.476**】[CAPSO: Chaos Adaptive Particle Swarm Optimization Algorithm](https://ieeexplore.ieee.org/abstract/document/9732987), **IEEE Access**, 10: 29393-29405, 2022.
 >`@ARTICLE{9732987,
