@@ -186,6 +186,17 @@ author_profile: true
   pages={29393-29405},
   doi={10.1109/ACCESS.2022.3158666}}`
 
+* 【**<font color=red>China Commu</font>, IF: 3.1**】[Blockchain-Enabled Trusted Virtual Network Embedding in Intelligent Cyber-Physical Systems](http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2024-0128), **China Communications**, 0-15, 2024.
+>`@ARTICLE{9732987,
+  author={Zhu, Hailong and Huang, Tao and Yi, Zhang and Chen, Ning and Zhang, Peiying},
+  journal={China Communication}, 
+  title={Blockchain-Enabled Trusted Virtual Network Embedding in Intelligent Cyber-Physical Systems}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={0-15},
+  url={doi: 10.1109/10.23919/JCC.ja.2024-0128}}`
+
 * 【**<font color=red>IEEE Access</font>, IF: 3.476**】[Transformer-Based Discriminative and Strong Representation Deep Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10343159), **IEEE Access**, 11: 140041-140055, 2023.
 >`@ARTICLE{10343159,
   author={Zhou, Suqing and Han, Yu and Chen, Ning and Huang, Siyu and Igorevich, Kostromitin Konstantin and Luo, Jia and Zhang, Peiying},
