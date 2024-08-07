@@ -6,7 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-======
+---
+
 Hi, I am Ning Chen (陈宁)
 ======
 I'm currently pursuing the Ph.D. degree with [Beijing University of Posts and Telecommunications (BUPT)](https://sice.bupt.edu.cn/), Beijing, China. My research interests include **Space-Air-Ground Integrated Networks**, **Network Virtualization**, **Satellite Communications**, and **Artificial Intelligence for Networking**. I have published more than twenty high-level articles. 
