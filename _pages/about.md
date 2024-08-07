@@ -12,17 +12,19 @@ I have published more than twenty high-level articles. I'm serving as a reviewer
 
 News
 ======
-> [August/2024] A collaborative paper was accepted by [**Automated Software Engineering**]!
+> `[August/2024] A collaborative paper was accepted by [**Automated Software Engineering**]!`
 
-> [July/2024] My paper was accepted by [**IEEE COMST**](https://ieeexplore.ieee.org/abstract/document/10587211)!
+> `[July/2024] My paper was accepted by [**IEEE COMST**](https://ieeexplore.ieee.org/abstract/document/10587211)!`
 
-> [June/2024] A collaborative paper was accepted by [**China Communications**](http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2024-0128)!
+> `[June/2024] A collaborative paper was accepted by [**China Communications**](http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2024-0128)!`
 
-> [May/2024] I received funding for **BUPT Excellent Ph.D. Students Foundation**!
+> `[May/2024] I received funding for **BUPT Excellent Ph.D. Students Foundation**!`
 
-> [January/2024] My paper was accepted by [**IEEE Network**](https://ieeexplore.ieee.org/abstract/document/10443704)!
+> `[January/2024] My paper was accepted by [**IEEE Network**](https://ieeexplore.ieee.org/abstract/document/10443704)!`
 
-> [January/2024] My paper was accepted by [**IEEE TII**](https://ieeexplore.ieee.org/abstract/document/10413579)!
+> `[January/2024] My paper was accepted by [**IEEE TII**](https://ieeexplore.ieee.org/abstract/document/10413579)!`
+
+> `......` 
 
 
 Contact me
