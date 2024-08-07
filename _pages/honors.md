@@ -17,6 +17,8 @@ author_profile: true
 * **<font color=red>Second Prize of Shandong Province Postgraduate Innovation Achievement Award</font>** (ID:2022CXCG101), 2022-12-30, Shandong Provincial Department of Education, China.
 ![image.png](https://i.postimg.cc/PfwXZgVF/image.png)
 
+<img src="https://i.postimg.cc/y6gdjgxj/2022.png" width="50%">
+
 * **<font color=red>Outstanding Graduates of Shandong Province</font>** (ID:GXYP23YZS10425N428978730-8E94A390E3), 2023-04-17, Human Resources and Social Security Department of Shandong Province, China.
 ![image.png](https://i.postimg.cc/m24s9tHt/image.png)
 
