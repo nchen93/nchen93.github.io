@@ -14,8 +14,10 @@ I have received more than ten outstanding awards and honors from the government 
 
 News
 ======
-> [July/2024] My paper was accept by [IEEE COMST](https://ieeexplore.ieee.org/abstract/document/10587211).
-> 
+> [July/2024] My paper was accept by [**IEEE COMST**](https://ieeexplore.ieee.org/abstract/document/10587211)
+> [May/2024] I received funding for **BUPT Excellent Ph.D. Students Foundation**.
+> [January/2024] My paper was accept by [**IEEE Network**](https://ieeexplore.ieee.org/abstract/document/10443704)
+> [January/2024] My paper was accept by [**IEEE TII**](https://ieeexplore.ieee.org/abstract/document/10413579)
 
 
 Contact me
