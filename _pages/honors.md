@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * **<font color=red>National Postgraduate Scholarship</font>** (ID:SSY202208819), 2022-12, Ministry of Education of the People's Republic of China.
+<img src="国奖证书-陈宁.png">
 
 * **<font color=red>Second Prize of Shandong Province Postgraduate Innovation Achievement Award</font>** (ID:2022CXCG101), 2022-12-30, Shandong Provincial Department of Education, China.
 
