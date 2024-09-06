@@ -15,7 +15,10 @@ main:
 
   - title: "Reviewer"
     url: /reviewer/
-        
+
+  - title: "Editorial Board"
+    url: /editor/
+
   - title: "TPC"
     url: /tpc/
 
