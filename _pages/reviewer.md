@@ -4,6 +4,8 @@ title: "Reviewer"
 permalink: /reviewer/
 author_profile: true
 ---
+* **[IEEE Transactions on Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693)** (IEEE TWC)
+
 * **[IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)** (IEEE TII)
 
 * **[IEEE Network Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65)**
