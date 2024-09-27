@@ -45,7 +45,7 @@ author_profile: true
   doi={10.1109/TII.2024.3353848}}`
 
 
-* 【**<font color=red>IEEE WCM</font>, IF: 12.777**】[Future Quantum Communications and Networking: A Review and Vision](https://ieeexplore.ieee.org/abstract/document/9928082), **IEEE Wireless Communications**, 31(1): 141-148, 2024.
+* 【**<font color=red>IEEE WCM</font>, IF: 12.777**】[Future Quantum Communications and Networking: A Review and Vision](https://ieeexplore.ieee.org/abstract/document/9928082), **IEEE Wireless Communications**, 31(1): 141-148, 2024. (**<font color=red>ESI Highly Cited Paper</font>**)
 >`@ARTICLE{9928082,
   author={Zhang, Peiying and Chen, Ning and Shen, Shigen and Yu, Shui and Wu, Sheng and Kumar, Neeraj},
   journal={IEEE Wireless Communications}, 
