@@ -174,6 +174,17 @@ author_profile: true
   pages={3348-3358},
   doi={10.1109/TNSM.2022.3232414}}`
 
+* 【**<font color=red>IEEE TNSM</font>, IF: 4.758**】[QoE-Fairness-Aware Bandwidth Allocation Design for MEC-Assisted ABR Video Transmission]([https://ieeexplore.ieee.org/abstract/document/9999560](https://ieeexplore.ieee.org/document/10701003)),  **IEEE Transactions on Network and Service Management**, 1-17, 2024.
+>`@ARTICLE{10701003,
+  author={Xiao, Ailing and Wu, Sheng and Ou, Yongkang and Chen, Ning and Jiang, Chunxiao and Zhang, Wei},
+  journal={IEEE Transactions on Network and Service Management}, 
+  title={QoE-Fairness-Aware Bandwidth Allocation Design for MEC-Assisted ABR Video Transmission}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-17},
+  url={doi: 10.1109/TNSM.2024.3471632}}`
+
 * 【**<font color=red>ASE</font>, IF: 2**】[Energy Efficient Resource Allocation Based on Virtual Network Embedding for IoT Data Generation](https://link.springer.com/article/10.1007/s10515-024-00463-8),  **Automated Software Engineering**, 2024, 31(2): 66.
 >`@article{tan2024energy,
   title={Energy efficient resource allocation based on virtual network embedding for IoT data generation},
