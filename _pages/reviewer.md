@@ -28,6 +28,8 @@ author_profile: true
 
 * **[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)** (EAAI)
 
+* **[Soft Computing](https://link.springer.com/journal/500?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_CN_CNPL_00340_HPAUT)**
+
 * **The 5th International Conference on Machine Learning and Intelligent Systems** (MLIS 2023)
 
 * **[Recent advances in electrical & electronic engineering](https://www.benthamscience.com/public/journals/recent-advances-in-electrical-and-electronic-engineering)**
