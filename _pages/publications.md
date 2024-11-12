@@ -174,7 +174,7 @@ author_profile: true
   pages={3348-3358},
   doi={10.1109/TNSM.2022.3232414}}`
 
-* 【**<font color=red>IEEE TNSM</font>, IF: 4.758**】[QoE-Fairness-Aware Bandwidth Allocation Design for MEC-Assisted ABR Video Transmission]([https://ieeexplore.ieee.org/abstract/document/9999560](https://ieeexplore.ieee.org/document/10701003)),  **IEEE Transactions on Network and Service Management**, 1-17, 2024.
+* 【**<font color=red>IEEE TNSM</font>, IF: 4.758**】[QoE-Fairness-Aware Bandwidth Allocation Design for MEC-Assisted ABR Video Transmission](https://ieeexplore.ieee.org/abstract/document/10701003),  **IEEE Transactions on Network and Service Management**, 1-17, 2024.
 >`@ARTICLE{10701003,
   author={Xiao, Ailing and Wu, Sheng and Ou, Yongkang and Chen, Ning and Jiang, Chunxiao and Zhang, Wei},
   journal={IEEE Transactions on Network and Service Management}, 
