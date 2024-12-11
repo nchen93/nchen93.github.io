@@ -21,15 +21,15 @@ author_profile: true
   url={doi: 10.1109/COMST.2024.3424533}}
 `
 
-* 【**<font color=red>IEEE Network</font>, IF: 10.294**】[AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook](https://ieeexplore.ieee.org/abstract/document/10443704), **IEEE Network**, 2024.
+* 【**<font color=red>IEEE Network</font>, IF: 10.294**】[AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook](https://ieeexplore.ieee.org/abstract/document/10443704), **IEEE Network**, 38(6): 219-226, 2024.
 >`@ARTICLE{10443704,
   author={Wu, Sheng and Chen, Ning and Xiao, Ailing and Jia, Haoge and Jiang, Chunxiao and Zhang, Peiying},
   journal={IEEE Network}, 
   title={AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={38},
+  number={6},
+  pages={219-226},
   url={doi: 10.1109/MNET.2024.3368753}}`
 
 
@@ -103,6 +103,16 @@ author_profile: true
   pages={3363-3375},
   doi={10.1109/TIFS.2023.3279587}}`
 
+* 【**<font color=red>IEEE IoT-J</font>, IF: 8.2**】[DNFS-VNE: Deep Neuro Fuzzy System Driven Virtual Network Embedding](https://ieeexplore.ieee.org/document/10787254), **IEEE Internet of Things Journal**, 1-1, 2024.
+>`@ARTICLE{10787254,
+  author={Xiao, Ailing and Chen, Ning and Wu, Sheng and Zhang, Peiying and Kuang, Linling and Jiang, Chunxiao},
+  journal={IEEE Internet of Things Journal}, 
+  title={DNFS-VNE: Deep Neuro Fuzzy System Driven Virtual Network Embedding}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  url={doi: 10.1109/JIOT.2024.3514700}}`
 
 * 【**<font color=red>PR</font>, IF: 8.518**】[MS2GAH: Multi-label Semantic Supervised Graph Attention Hashing for Robust Cross-Modal Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001571), **Pattern Recognition**, 128: 108676, 2022. 
 >`@article{duan2022ms2gah,
