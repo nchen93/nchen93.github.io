@@ -26,6 +26,8 @@ author_profile: true
 
 * **[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)** (KBS)
 
+* **[Neural Networks](https://www.sciencedirect.com/journal/neural-networks)** (NEUNET)
+
 * **[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)** (EAAI)
 
 * **[Soft Computing](https://link.springer.com/journal/500?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_CN_CNPL_00340_HPAUT)**
