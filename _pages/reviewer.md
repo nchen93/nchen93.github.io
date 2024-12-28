@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Reviewer"
 permalink: /reviewer/
 author_profile: true
 ---
