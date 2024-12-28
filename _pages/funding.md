@@ -4,6 +4,7 @@ permalink: /funding/
 author_profile: true
 ---
 
+
 ### Host
 * 业务驱动的多星协同波束资源管理方法研究, **北京邮电大学优秀博士研究生创新基金项目** BUPT Excellent Ph.D. Students Foundation, CX20241074, 2024.05-2026.04.
 
