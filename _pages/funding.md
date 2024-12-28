@@ -5,10 +5,8 @@ author_profile: true
 ---
 
 
-### Host
-* 业务驱动的多星协同波束资源管理方法研究, **北京邮电大学优秀博士研究生创新基金项目** BUPT Excellent Ph.D. Students Foundation, CX20241074, 2024.05-2026.04.
+* 业务驱动的多星协同波束资源管理方法研究, **北京邮电大学优秀博士研究生创新基金项目** BUPT Excellent Ph.D. Students Foundation, CX20241074, 2024.05-2026.04. **Host**.
 
-### Participate
 * 巨星座系统××××××, **天基综合信息系统全国重点实验室**, ××××××, **3/8**, 30万, 2025.01-2025.12.
 
 * 基于体验质量感知的移动视频传输技术研究, **北京邮电大学新进教师项目** Start-up Fund for Newly Introduced Teacher, BUPT2024RC01, **2/5**, 30万, 2024.05-2025.10.
