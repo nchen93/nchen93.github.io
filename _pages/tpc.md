@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "TPC"
 permalink: /tpc/
 author_profile: true
 ---
