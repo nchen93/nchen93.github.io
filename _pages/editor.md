@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Editorial Board"
 permalink: /editor/
 author_profile: true
 ---
