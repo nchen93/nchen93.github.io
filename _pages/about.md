@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Educations"
 permalink: /
 author_profile: true
 ---
