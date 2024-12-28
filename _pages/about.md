@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/9a548681-db6a-41cc-8844-ae57bd4bb960)---
 permalink: /
 author_profile: true
 redirect_from: 
@@ -16,6 +16,8 @@ I'm serving as a reviewer for several journals/conferences, such as [IEEE TWC](h
 
 News
 ======
+> `[December/2024] My first-author paper was submitted to IEEE TCCN for review!`
+
 > `[December/2024] My paper was accepted by IEEE IoT-J!`
 
 > `[November/2024] A collaborative paper was submitted by IEEE TNSE!`
