@@ -9,6 +9,8 @@ author_profile: true
 
 * **[IEEE Network Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65)**
 
+* **[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)** (IEEE TNNLS)
+
 * **[IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)** (IEEE TITS)
 
 * **[IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25)** (IEEE TVT)
