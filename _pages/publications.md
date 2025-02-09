@@ -253,13 +253,15 @@ author_profile: true
   doi={10.1109/ACCESS.2023.3251698}}`
 
 
-* 【**<font color=red>IJCS</font>, IF: 1.882**】[Edge Computing Network Resource Allocation Based on Virtual Network Embedding](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.5344), **International Journal of Communication Systems**, e5344, 2022.
->`@article{zhan2022edge,
+* 【**<font color=red>IJCS</font>, IF: 1.882**】[Edge Computing Network Resource Allocation Based on Virtual Network Embedding](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.5344), **International Journal of Communication Systems**, 38(1): e5344, 2025.
+>`@article{zhan2025edge,
   title={Edge computing network resource allocation based on virtual network embedding},
   author={Zhan, Keqiang and Chen, Ning and Santhosh Kumar, Sripathi Venkata Naga and Kibalya, Godfrey and Zhang, Peiying and Zhang, Hongxia},
   journal={International Journal of Communication Systems},
+  volume={38},
+  number={1},
   pages={e5344},
-  year={2022},
+  year={2025},
   publisher={Wiley Online Library}
 }`
 
