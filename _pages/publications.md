@@ -276,6 +276,19 @@ URL = {https://www.mdpi.com/2079-9292/12/19/4103},
 DOI = {10.3390/electronics12194103}
 }`
 
+* 【**<font color=red>Sensors</font>, IF: 3.4**】[Novel Surveillance View: A Novel Benchmark and View-Optimized Framework for Pedestrian Detection from UAV Perspectives](https://www.mdpi.com/2079-9292/12/19/4103), **Sensors**, 25(3): 772, 2025.
+>`@article{chen2025novel,
+  title={Novel Surveillance View: A Novel Benchmark and View-Optimized Framework for Pedestrian Detection from UAV Perspectives},
+  author={Chen, Chenglizhao and Gao, Shengran and Pei, Hongjuan and Chen, Ning and Shi, Lei and Zhang, Peiying},
+  journal={Sensors},
+  volume={25},
+  number={3},
+  pages={772},
+  year={2025},
+  publisher={MDPI}
+}`
+
+
 * 【**<font color=red>IEEE ICC'22</font>**】[Intelligent Requests Orchestration for Microservice Management Based on Blockchain in Software Defined Networking: a Security Guarantee](https://ieeexplore.ieee.org/abstract/document/9814536), **2022 IEEE International Conference on Communications Workshops (ICC Workshops)**, 254-259, 2022.
 >`@INPROCEEDINGS{9814536,
   author={Zhang, Yasheng and Li, Chengcheng and Chen, Ning and Zhang, Peiying},
