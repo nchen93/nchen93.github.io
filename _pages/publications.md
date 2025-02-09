@@ -278,7 +278,7 @@ URL = {https://www.mdpi.com/2079-9292/12/19/4103},
 DOI = {10.3390/electronics12194103}
 }`
 
-* 【**<font color=red>Sensors</font>, IF: 3.4**】[Novel Surveillance View: A Novel Benchmark and View-Optimized Framework for Pedestrian Detection from UAV Perspectives](https://www.mdpi.com/2079-9292/12/19/4103), **Sensors**, 25(3): 772, 2025.
+* 【**<font color=red>Sensors</font>, IF: 3.4**】[Novel Surveillance View: A Novel Benchmark and View-Optimized Framework for Pedestrian Detection from UAV Perspectives](https://www.mdpi.com/1424-8220/25/3/772), **Sensors**, 25(3): 772, 2025.
 >`@article{chen2025novel,
   title={Novel Surveillance View: A Novel Benchmark and View-Optimized Framework for Pedestrian Detection from UAV Perspectives},
   author={Chen, Chenglizhao and Gao, Shengran and Pei, Hongjuan and Chen, Ning and Shi, Lei and Zhang, Peiying},
