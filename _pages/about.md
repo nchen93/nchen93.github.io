@@ -14,7 +14,7 @@ I'm serving as a reviewer for several journals/conferences, such as [IEEE TWC](h
 
 News
 ======
-> `[January/2025] A collaborative paper was accepted by Sensors`
+> `[January/2025] A collaborative paper was accepted by Sensors!`
 
 >`[December/2024] My first-author paper was submitted to IEEE TCCN for review!`
 
