@@ -10,8 +10,8 @@ main:
   - title: "Honors and Awards"
     url: /honors/
 
-  - title: "Funded Project"
-    url: /funding/
+  #- title: "Funded Project"
+  #  url: /funding/
 
   - title: "Reviewer"
     url: /reviewer/
