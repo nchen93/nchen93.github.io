@@ -1,6 +1,8 @@
 # main links links
 main:
 
+  #- title: "Educations"
+   # url: /educations/    
 
   - title: "Publications"
     url: /publications/    
