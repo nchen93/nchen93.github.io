@@ -14,6 +14,8 @@ I'm serving as a reviewer for several journals/conferences, such as [IEEE TWC](h
 
 News
 ======
+> `[April/2025] My first-author paper was submitted to IEEE TWC for review!`
+
 > [March/2025] It is a great honor to serve as Guest Editor of Special Issue "[**Application of Artificial Intelligence in Unmanned Aerial Vehicles**](https://www.mdpi.com/journal/electronics/special_issues/FW7A5WF45P)" in Electronics!
 
 > `[March/2025] My first-author paper received a major revision decision from IEEE TWC!`
