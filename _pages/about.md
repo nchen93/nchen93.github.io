@@ -15,6 +15,8 @@ I'm serving as a reviewer for several journals/conferences, such as [IEEE TWC](h
 News
 ======
 
+> `[May/2025] A collaborative paper was accepted by Cluster Computing!`
+
 > `[April/2025] My first-author paper has completed major revision and resubmitted to IEEE TWC for review!`
 
 > `[April/2025] My first-author paper was submitted to IEEE TWC for review!`
