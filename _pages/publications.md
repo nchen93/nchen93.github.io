@@ -21,36 +21,36 @@ My paper
 
 
 
-* 【**<font color=blue>IEEE WCM</font>, IF: 12.777**】Future Quantum Communications and Networking: A Review and Vision,<br>Peiying Zhang, Ning Chen, Shigen Shen, Shui Yu, Sheng Wu, Neeraj Kumar,<br>IEEE Wireless Communications, 31(1): 141-148, 2024.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/9928082)(**<font color=red>ESI Highly Cited Paper</font>**)
+* 【**<font color=blue>IEEE WCM</font>, IF: 12.777**】Future Quantum Communications and Networking: A Review and Vision,<br>Peiying Zhang, **<u>Ning Chen</u>**, Shigen Shen, Shui Yu, Sheng Wu, Neeraj Kumar,<br>IEEE Wireless Communications, 31(1): 141-148, 2024.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/9928082)(**<font color=red>ESI Highly Cited Paper</font>**)
 
 
-* 【**<font color=blue>IEEE Network</font>, IF: 10.294**】AI-Enabled Space-Air-Ground Integrated Networks: Management and Optimization,<br>Peiying Zhang, Ning Chen, Shigen Shen, Shui Yu, Neeraj Kumar, Ching-Hsien Hsu,<br>IEEE Network, 38(2): 186-192, 2024.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/10103768)(**<font color=red>ESI Highly Cited Paper & ESI Hot Paper</font>**)
+* 【**<font color=blue>IEEE Network</font>, IF: 10.294**】AI-Enabled Space-Air-Ground Integrated Networks: Management and Optimization,<br>Peiying Zhang, **<u>Ning Chen</u>**, Shigen Shen, Shui Yu, Neeraj Kumar, Ching-Hsien Hsu,<br>IEEE Network, 38(2): 186-192, 2024.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/10103768)(**<font color=red>ESI Highly Cited Paper & ESI Hot Paper</font>**)
 
 
-* 【**<font color=blue>KBS</font>, IF: 8.139**】Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture,<br>Ning Chen, Peiying Zhang, Neeraj Kumar, Ching-Hsien Hsu, Laith Abualigah, Hailong Zhu,<br>Knowledge-Based Systems, 257: 109931, 2022.<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243)
+* 【**<font color=blue>KBS</font>, IF: 8.139**】Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture,<br>**<u>Ning Chen</u>**, Peiying Zhang, Neeraj Kumar, Ching-Hsien Hsu, Laith Abualigah, Hailong Zhu,<br>Knowledge-Based Systems, 257: 109931, 2022.<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243)
 
 
-* 【**<font color=blue>IEEE T-ITS</font>, IF: 9.551**】Multi-Target-Aware Dynamic Resource Scheduling for Cloud-Fog-Edge Multi-Tier Computing Network,<br>Peiying Zhang, Ning Chen, Guanjun Xu, Neeraj Kumar, Ahmed Barnawi, Mohsen Guizani, Youxiang Duan, Keping Yu,<br>IEEE Transactions on Intelligent Transportation Systems, 25(5):3885-3897, 2024.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/10323248)
-
-
-
-* 【**<font color=blue>IEEE TIFS</font>, IF: 7.231**】Multi-Domain Virtual Network Embedding Algorithm Based on Horizontal Federated Learning,<br>Peiying Zhang, Ning Chen, Shibao Li, Kim-Kwang Raymond Choo, Chunxiao Jiang, Sheng Wu,<br>IEEE Transactions on Information Forensics and Security, 18: 3363-3375, 2023.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/10132867)
-
-
-* 【**<font color=blue>IEEE IoT-J</font>, IF: 8.2**】DNFS-VNE: Deep Neuro Fuzzy System Driven Virtual Network Embedding,<br>Ailing Xiao, Ning Chen, Sheng Wu, Peiying Zhang, Linling Kuang, Chunxiao Jiang,<br>IEEE Internet of Things Journal, 12(8): 10998-11010, 2025.<br>[Paper](https://ieeexplore.ieee.org/document/10787254)
-
-
-* 【**<font color=blue>PR</font>, IF: 8.518**】MS2GAH: Multi-label Semantic Supervised Graph Attention Hashing for Robust Cross-Modal Retrieval,<br>Youxiang Duan, Ning Chen, Peiying Zhang, Neeraj Kumar, Lunjie Chang, Wu Wen,<br>Pattern Recognition, 128: 108676, 2022.<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001571)
-
-
-* 【**<font color=blue>Drones</font>,IF: 5.532**】Non-Euclidean Graph-Convolution Virtual Network Embedding for Space–Air–Ground Integrated Networks,<br>Ning Chen, Shigen Shen, Youxiang Duan, Siyu Huang, Wei Zhang, Lizhuang Tan, <br>Drones, 7(3), 165, 2023.<br>[Paper](https://www.mdpi.com/2504-446X/7/3/165) 
-
-
-* 【**<font color=blue>IEEE TSUSC</font>, IF: 4.908**】Energy Allocation for Vehicle-to-Grid Settings: A Low-Cost Proposal Combining DRL and VNE,<br>Peiying Zhang, Ning Chen, Neeraj Kumar, Laith Abualigah, Mohsen Guizani, Youxiang Duan, Jian Wang, Sheng Wu,<br>IEEE Transactions on Sustainable Computing, 9(1): 75-87, 2024.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/10226295)
+* 【**<font color=blue>IEEE T-ITS</font>, IF: 9.551**】Multi-Target-Aware Dynamic Resource Scheduling for Cloud-Fog-Edge Multi-Tier Computing Network,<br>Peiying Zhang, **<u>Ning Chen</u>**, Guanjun Xu, Neeraj Kumar, Ahmed Barnawi, Mohsen Guizani, Youxiang Duan, Keping Yu,<br>IEEE Transactions on Intelligent Transportation Systems, 25(5):3885-3897, 2024.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/10323248)
 
 
 
-* 【**<font color=blue>IEEE TVT</font>, IF: 6.239**】FDSA-STG: Fully Dynamic Self-Attention Spatio-Temporal Graph Networks for Intelligent Traffic Flow Prediction,<br>Youxiang Duan, Ning Chen, Shigen Shen, Peiying Zhang, Youyang Qu, Shui Yu,<br>IEEE Transactions on Vehicular Technology, 71(9): 9250-9260, 2022.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/9782553)
+* 【**<font color=blue>IEEE TIFS</font>, IF: 7.231**】Multi-Domain Virtual Network Embedding Algorithm Based on Horizontal Federated Learning,<br>Peiying Zhang, **<u>Ning Chen</u>**, Shibao Li, Kim-Kwang Raymond Choo, Chunxiao Jiang, Sheng Wu,<br>IEEE Transactions on Information Forensics and Security, 18: 3363-3375, 2023.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/10132867)
+
+
+* 【**<font color=blue>IEEE IoT-J</font>, IF: 8.2**】DNFS-VNE: Deep Neuro Fuzzy System Driven Virtual Network Embedding,<br>Ailing Xiao, **<u>Ning Chen</u>**, Sheng Wu, Peiying Zhang, Linling Kuang, Chunxiao Jiang,<br>IEEE Internet of Things Journal, 12(8): 10998-11010, 2025.<br>[Paper](https://ieeexplore.ieee.org/document/10787254)
+
+
+* 【**<font color=blue>PR</font>, IF: 8.518**】MS2GAH: Multi-label Semantic Supervised Graph Attention Hashing for Robust Cross-Modal Retrieval,<br>Youxiang Duan, **<u>Ning Chen</u>**, Peiying Zhang, Neeraj Kumar, Lunjie Chang, Wu Wen,<br>Pattern Recognition, 128: 108676, 2022.<br>[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001571)
+
+
+* 【**<font color=blue>Drones</font>,IF: 5.532**】Non-Euclidean Graph-Convolution Virtual Network Embedding for Space–Air–Ground Integrated Networks,<br>**<u>Ning Chen</u>**, Shigen Shen, Youxiang Duan, Siyu Huang, Wei Zhang, Lizhuang Tan, <br>Drones, 7(3), 165, 2023.<br>[Paper](https://www.mdpi.com/2504-446X/7/3/165) 
+
+
+* 【**<font color=blue>IEEE TSUSC</font>, IF: 4.908**】Energy Allocation for Vehicle-to-Grid Settings: A Low-Cost Proposal Combining DRL and VNE,<br>Peiying Zhang, **<u>Ning Chen</u>**, Neeraj Kumar, Laith Abualigah, Mohsen Guizani, Youxiang Duan, Jian Wang, Sheng Wu,<br>IEEE Transactions on Sustainable Computing, 9(1): 75-87, 2024.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/10226295)
+
+
+
+* 【**<font color=blue>IEEE TVT</font>, IF: 6.239**】FDSA-STG: Fully Dynamic Self-Attention Spatio-Temporal Graph Networks for Intelligent Traffic Flow Prediction,<br>Youxiang Duan, **<u>Ning Chen</u>**, Shigen Shen, Peiying Zhang, Youyang Qu, Shui Yu,<br>IEEE Transactions on Vehicular Technology, 71(9): 9250-9260, 2022.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/9782553)
 
 
 
