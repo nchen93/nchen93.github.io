@@ -11,7 +11,7 @@ author_profile: true
 
 My paper
 ======
-* 【**<font color=blue>IEEE COMST</font>, IF: 35.6**】AI-Empowered Virtual Network Embedding: A Comprehensive Survey, IEEE Communications Surveys & Tutorials, 27(2): 1395 - 1426, 2025. [Paper](https://ieeexplore.ieee.org/abstract/document/10587211)
+* 【**<font color=blue>IEEE COMST</font>, IF: 35.6**】AI-Empowered Virtual Network Embedding: A Comprehensive Survey,<br>Sheng Wu, **Ning Chen**, Ailing Xiao, Peiying Zhang, Chunxiao Jiang, Wei Zhang,<br>IEEE Communications Surveys & Tutorials, 27(2): 1395 - 1426, 2025.<br>[Paper](https://ieeexplore.ieee.org/abstract/document/10587211)
 
 
 * 【**<font color=red>IEEE Network</font>, IF: 10.294**】[AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook](https://ieeexplore.ieee.org/abstract/document/10443704), **IEEE Network**, 38(6): 219-226, 2024.
