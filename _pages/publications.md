@@ -32,7 +32,7 @@ author_profile: true
   <i>IEEE Transactions on Intelligent Transportation Systems</i>, 25(5): 3885–3897, 2024  
   🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10323248)
 
-  - 🔒 【<b><font color=blue>IEEE TIFS</font></b>, IF: 7.231】  
+- 🔒 【<b><font color=blue>IEEE TIFS</font></b>, IF: 7.231】  
   <b>Multi-Domain Virtual Network Embedding via Federated Learning</b><br>
   Peiying Zhang, <u><b>Ning Chen#</b></u>, et al.<br>
   <i>IEEE Transactions on Information Forensics and Security</i>, 18: 3363–3375, 2023  
@@ -45,7 +45,7 @@ author_profile: true
   🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10103768)  
   🏅 <font color=red><b>ESI Highly Cited Paper & Hot Paper</b></font>
 
- 🔋 【<b><font color=blue>IEEE TSUSC</font></b>, IF: 4.908】  
+- 🔋 【<b><font color=blue>IEEE TSUSC</font></b>, IF: 4.908】  
   <b>Energy Allocation for V2G: A Low-Cost DRL-VNE Approach</b><br>
   Peiying Zhang, <u><b>Ning Chen#</b></u>, et al.<br>
   <i>IEEE Transactions on Sustainable Computing</i>, 9(1): 75–87, 2024  
@@ -65,7 +65,7 @@ author_profile: true
   <i>IEEE Communications Surveys & Tutorials</i>, 27(2): 1395–1426, 2025  
   🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10587211)
 
-  - 🧠 【<b><font color=blue>IEEE TII</font></b>, IF: 11.648】  
+- 🧠 【<b><font color=blue>IEEE TII</font></b>, IF: 11.648】  
   <b>Virtual Network Embedding for Task Offloading in IIoT</b><br>
   Sheng Wu, <u><b>Ning Chen</b></u>, Guanghui Wen, Long Xu, Peiying Zhang, Hailong Zhu<br>
   <i>IEEE Transactions on Industrial Informatics</i>, 20(4): 6814–6824, 2024  
