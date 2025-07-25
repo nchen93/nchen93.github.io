@@ -87,42 +87,123 @@ author_profile: true
   <i>IEEE Transactions on Vehicular Technology</i>, 71(9): 9250–9260, 2022  
   🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/9782553)
 
+## 📘 Collaborative paper
+
+- 📡 【<b><font color=blue>IEEE TNSM</font></b>】Distributed Deep Reinforcement Learning Assisted Resource Allocation Algorithm for Space-Air-Ground Integrated Networks<br>
+  Peiying Zhang, Yuanjie Li, Neeraj Kumar, <u><b>Ning Chen</b></u>, Ching-Hsien Hsu, Ahmed Barnawi<br>
+  <i>IEEE Transactions on Network and Service Management</i>, 20(3): 3348–3358, 2022  
+  🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/9999560)
+
+- 📶【<b><font color=blue>IEEE TNSM</font></b>】QoE-Fairness-Aware Bandwidth Allocation Design for MEC-Assisted ABR Video Transmission<br>
+  Ailing Xiao, Sheng Wu, Yongkang Ou, <u><b>Ning Chen</b></u>, Chunxiao Jiang, Wei Zhang<br>
+  <i>IEEE Transactions on Network and Service Management</i>, 22(1): 499–515, 2025  
+  🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10701003)
+
+- 💡【<b><font color=blue>ASE</font></b>】Energy Efficient Resource Allocation Based on Virtual Network Embedding for IoT Data Generation<br>
+  Lizhuang Tan, Amjad Aldweesh, <u><b>Ning Chen</b></u>, Jian Wang, Jianyong Zhang, Yi Zhang, Konstantin Igorevich Kostromitin, Peiying Zhang<br>
+  <i>Automated Software Engineering</i>, 31(2): 66, 2024  
+  🔗 [Paper](https://link.springer.com/article/10.1007/s10515-024-00463-8)
+
+- 🌀【<b><font color=blue>IEEE Access</font></b>】CAPSO: Chaos Adaptive Particle Swarm Optimization Algorithm<br>
+  Youxiang Duan, <u><b>Ning Chen</b></u>, Lunjie Chang, Yongjing Ni, SVN Santhosh Kumar, Peiying Zhang<br>
+  <i>IEEE Access</i>, 10: 29393–29405, 2022  
+  🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/9732987)
+
+- 🔗【<b><font color=blue>China Commu</font></b>】Blockchain-Enabled Trusted Virtual Network Embedding in Intelligent Cyber-Physical Systems<br>
+  Hailong Zhu, Tao Huang, Yi Zhang, <u><b>Ning Chen</b></u>, Peiying Zhang<br>
+  <i>China Communications</i>, 0–15, 2024  
+  🔗 [Paper](http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2024-0128)
+
+- 🔍 【<b><font color=blue>IEEE Access</font></b>】Transformer-Based Discriminative and Strong Representation Deep Hashing for Cross-Modal Retrieval<br>
+  Suqing Zhou, Yu Han, <u><b>Ning Chen</b></u>, Siyu Huang, Kostromitin Konstantin Igorevich, Jia Luo, Peiying Zhang<br>
+  <i>IEEE Access</i>, 11: 140041–140055, 2023  
+  🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10343159)
+
+- ⚡【<b><font color=blue>IEEE Access</font></b>】Multi-Target-Aware Energy Orchestration Modeling for Grid 2.0: A Network Virtualization Approach<br>
+  Lianzhong Wang, Zhe Zheng, <u><b>Ning Chen</b></u>, Yingying Chi, Yong Liu, Hailong Zhu, Peiying Zhang, Neeraj Kumar<br>
+  <i>IEEE Access</i>, 11: 21699–21711, 2023  
+  🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10057385)
+
+- 🌍【<b><font color=blue>IJCS</font></b>】Edge Computing Network Resource Allocation Based on Virtual Network Embedding<br>
+  Keqiang Zhan, <u><b>Ning Chen</b></u>, Sripathi Venkata Naga Santhosh Kumar, Godfrey Kibalya, Peiying Zhang, Hongxia Zhang<br>
+  <i>International Journal of Communication Systems</i>, 38(1): e5344, 2025  
+  🔗 [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.5344)
+
+- 🧱【<b><font color=blue>Electronics</font></b>】Flow-Based Joint Programming of Time Sensitive Task and Network<br>
+  Yingying Chi, Huayu Zhang, Yong Liu, <u><b>Ning Chen</b></u>, Zhe Zheng, Hailong Zhu, Peiying Zhang, Haotian Zhan<br>
+  <i>Electronics</i>, 12(19): 4103, 2023  
+  🔗 [Paper](https://www.mdpi.com/2079-9292/12/19/4103)
+
+- 👁️【<b><font color=blue>Sensors</font></b>】Novel Surveillance View: A Novel Benchmark and View-Optimized Framework for Pedestrian Detection from UAV Perspectives<br>
+  Chenglizhao Chen, Shengran Gao, Hongjuan Pei, <u><b>Ning Chen</b></u>, Lei Shi, Peiying Zhang<br>
+  <i>Sensors</i>, 25(3): 772, 2025  
+  🔗 [Paper](https://www.mdpi.com/1424-8220/25/3/772)
+
+- 🔐【<b><font color=blue>IEEE ICC'22</font></b>】Intelligent Requests Orchestration for Microservice Management Based on Blockchain in Software Defined Networking: a Security Guarantee<br>
+  Yasheng Zhang, Chengcheng Li, <u><b>Ning Chen</b></u>, Peiying Zhang<br>
+  <i>2022 IEEE International Conference on Communications Workshops (ICC Workshops)</i>, 254–259, 2022  
+  🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/9814536)
+
+- 🧩【<b><font color=blue>ETT</font></b>】Multi-Objective Collaborative Resource Allocation for Cloud-Edge Networks: A VNE Approach<br>
+  Xin Li, Chengcheng Li, Weihong Dai, Konstantin Igorevich Kostromitin, Shengpeng Chen, <u><b>Ning Chen</b></u><br>
+  <i>Transactions on Emerging Telecommunications Technologies</i>, 36(7): e70197, 2025  
+  🔗 [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.70197)
 
 
 
 Collaborative paper
 ====
 
-* 【**<font color=blue>IEEE TNSM</font>, IF: 4.758**】[Distributed Deep Reinforcement Learning Assisted Resource Allocation Algorithm for Space-Air-Ground Integrated Networks](https://ieeexplore.ieee.org/abstract/document/9999560),  **IEEE Transactions on Network and Service Management**, 20(3): 3348-3358, 2022.
+* 【**<font color=blue>IEEE TNSM</font>, IF: 4.758**】[Distributed Deep Reinforcement Learning Assisted Resource Allocation Algorithm for Space-Air-Ground Integrated Networks](https://ieeexplore.ieee.org/abstract/document/9999560),  **IEEE Transactions on Network and Service Management**, 20(3): 3348-3358, 2022.Peiying Zhang, Yuanjie Li, Neeraj Kumar, Ning Chen, Ching-Hsien Hsu, Ahmed Barnawi
 
 
-* 【**<font color=blue>IEEE TNSM</font>, IF: 4.758**】[QoE-Fairness-Aware Bandwidth Allocation Design for MEC-Assisted ABR Video Transmission](https://ieeexplore.ieee.org/abstract/document/10701003),  **IEEE Transactions on Network and Service Management**, 22(1): 499-515, 2025.
+* 【**<font color=blue>IEEE TNSM</font>, IF: 4.758**】[QoE-Fairness-Aware Bandwidth Allocation Design for MEC-Assisted ABR Video Transmission](https://ieeexplore.ieee.org/abstract/document/10701003),  **IEEE Transactions on Network and Service Management**, 22(1): 499-515, 2025. Ailing Xiao, Sheng Wu, Yongkang Ou, Ning Chen, Chunxiao Jiang, Wei Zhang
 
 
-* 【**<font color=blue>ASE</font>, IF: 2**】[Energy Efficient Resource Allocation Based on Virtual Network Embedding for IoT Data Generation](https://link.springer.com/article/10.1007/s10515-024-00463-8),  **Automated Software Engineering**, 2024, 31(2): 66.
+* 【**<font color=blue>ASE</font>, IF: 2**】[Energy Efficient Resource Allocation Based on Virtual Network Embedding for IoT Data Generation](https://link.springer.com/article/10.1007/s10515-024-00463-8),  **Automated Software Engineering**, 2024, 31(2): 66. Lizhuang Tan, Amjad Aldweesh, Ning Chen, Jian Wang, Jianyong Zhang, Yi Zhang, Konstantin Igorevich Kostromitin, Peiying Zhang
 
 
-* 【**<font color=blue>IEEE Access</font>, IF: 3.476**】[CAPSO: Chaos Adaptive Particle Swarm Optimization Algorithm](https://ieeexplore.ieee.org/abstract/document/9732987), **IEEE Access**, 10: 29393-29405, 2022.
+* 【**<font color=blue>IEEE Access</font>, IF: 3.476**】[CAPSO: Chaos Adaptive Particle Swarm Optimization Algorithm](https://ieeexplore.ieee.org/abstract/document/9732987), **IEEE Access**, 10: 29393-29405, 2022. Youxiang Duan, Ning Chen, Lunjie Chang, Yongjing Ni, SVN Santhosh Kumar, Peiying Zhang
 
 
-* 【**<font color=blue>China Commu</font>, IF: 3.1**】[Blockchain-Enabled Trusted Virtual Network Embedding in Intelligent Cyber-Physical Systems](http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2024-0128), **China Communications**, 0-15, 2024.
+* 【**<font color=blue>China Commu</font>, IF: 3.1**】[Blockchain-Enabled Trusted Virtual Network Embedding in Intelligent Cyber-Physical Systems](http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2024-0128), **China Communications**, 0-15, 2024. Hailong Zhu, Tao Huang, Yi Zhang, Ning Chen, Peiying Zhang
 
 
-* 【**<font color=blue>IEEE Access</font>, IF: 3.476**】[Transformer-Based Discriminative and Strong Representation Deep Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10343159), **IEEE Access**, 11: 140041-140055, 2023.
-
-
-
-* 【**<font color=blue>IEEE Access</font>, IF: 3.476**】[Multi-Target-Aware Energy Orchestration Modeling for Grid 2.0: A Network Virtualization Approach](https://ieeexplore.ieee.org/abstract/document/10057385), **IEEE Access**, 11: 21699-21711, 2023.
+* 【**<font color=blue>IEEE Access</font>, IF: 3.476**】[Transformer-Based Discriminative and Strong Representation Deep Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10343159), **IEEE Access**, 11: 140041-140055, 2023. Suqing Zhou, Yu Han, Ning Chen, Siyu Huang, Kostromitin Konstantin Igorevich, Jia Luo, Peiying Zhang
 
 
 
-* 【**<font color=blue>IJCS</font>, IF: 1.882**】[Edge Computing Network Resource Allocation Based on Virtual Network Embedding](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.5344), **International Journal of Communication Systems**, 38(1): e5344, 2025.
-
-* 【**<font color=blue>Electronics</font>, IF: 2.9**】[Flow-Based Joint Programming of Time Sensitive Task and Network](https://www.mdpi.com/2079-9292/12/19/4103), **Electronics**, 12(19), 4103, 2023.
+* 【**<font color=blue>IEEE Access</font>, IF: 3.476**】[Multi-Target-Aware Energy Orchestration Modeling for Grid 2.0: A Network Virtualization Approach](https://ieeexplore.ieee.org/abstract/document/10057385), **IEEE Access**, 11: 21699-21711, 2023.  Lianzhong Wang, Zhe Zheng, Ning Chen, Yingying Chi, Yong Liu, Hailong Zhu, Peiying Zhang, Neeraj Kumar
 
 
-* 【**<font color=blue>Sensors</font>, IF: 3.4**】[Novel Surveillance View: A Novel Benchmark and View-Optimized Framework for Pedestrian Detection from UAV Perspectives](https://www.mdpi.com/1424-8220/25/3/772), **Sensors**, 25(3): 772, 2025.
+
+* 【**<font color=blue>IJCS</font>, IF: 1.882**】[Edge Computing Network Resource Allocation Based on Virtual Network Embedding](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.5344), **International Journal of Communication Systems**, 38(1): e5344, 2025.  Keqiang Zhan, Ning Chen, Sripathi Venkata Naga Santhosh Kumar, Godfrey Kibalya, Peiying Zhang, Hongxia Zhang
+
+* 【**<font color=blue>Electronics</font>, IF: 2.9**】[Flow-Based Joint Programming of Time Sensitive Task and Network](https://www.mdpi.com/2079-9292/12/19/4103), **Electronics**, 12(19), 4103, 2023. Yingying Chi, Huayu Zhang, Yong Liu, Ning Chen, Zhe Zheng, Hailong Zhu, Peiying Zhang, Haotian Zhan
 
 
-* 【**<font color=blue>IEEE ICC'22</font>**】[Intelligent Requests Orchestration for Microservice Management Based on Blockchain in Software Defined Networking: a Security Guarantee](https://ieeexplore.ieee.org/abstract/document/9814536), **2022 IEEE International Conference on Communications Workshops (ICC Workshops)**, 254-259, 2022.
+* 【**<font color=blue>Sensors</font>, IF: 3.4**】[Novel Surveillance View: A Novel Benchmark and View-Optimized Framework for Pedestrian Detection from UAV Perspectives](https://www.mdpi.com/1424-8220/25/3/772), **Sensors**, 25(3): 772, 2025. Chenglizhao Chen, Shengran Gao, Hongjuan Pei, Ning Chen, Lei Shi, Peiying Zhang
+
+
+* 【**<font color=blue>IEEE ICC'22</font>**】[Intelligent Requests Orchestration for Microservice Management Based on Blockchain in Software Defined Networking: a Security Guarantee](https://ieeexplore.ieee.org/abstract/document/9814536), **2022 IEEE International Conference on Communications Workshops (ICC Workshops)**, 254-259, 2022. Yasheng Zhang, Chengcheng Li, Ning Chen, Peiying Zhang
+
+* @article{li2025multi,
+  title={Multi-Objective Collaborative Resource Allocation for Cloud-Edge Networks: A VNE Approach},
+  author={Li, Xin and Li, Chengcheng and Dai, Weihong and Kostromitin, Konstantin Igorevich and Chen, Shengpeng and Chen, Ning},
+  journal={Transactions on Emerging Telecommunications Technologies},
+  volume={36},
+  number={7},
+  pages={e70197},
+  year={2025},
+  publisher={Wiley Online Library},
+  url={https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.70197}
+}
+
+
+
+
+
+
+
+
 
