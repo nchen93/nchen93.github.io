@@ -114,6 +114,11 @@ author_profile: true
   <i>International Journal of Communication Systems</i>, 38(1): e5344, 2025  
   🔗 [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.5344)
 
+- 🧩【<b><font color=blue>TETT</font></b>】Multi-Objective Collaborative Resource Allocation for Cloud-Edge Networks: A VNE Approach<br>
+  Xin Li, Chengcheng Li, Weihong Dai, Konstantin Igorevich Kostromitin, Shengpeng Chen, <u><b>Ning Chen*</b></u><br>
+  <i>Transactions on Emerging Telecommunications Technologies</i>, 36(7): e70197, 2025  
+  🔗 [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.70197)
+
 - 🔐【<b><font color=blue>IEEE ICC'22</font></b>】Intelligent Requests Orchestration for Microservice Management Based on Blockchain in Software Defined Networking: a Security Guarantee<br>
   Yasheng Zhang, Chengcheng Li, <u><b>Ning Chen*</b></u>, Peiying Zhang<br>
   <i>2022 IEEE International Conference on Communications Workshops (ICC Workshops)</i>, 254–259, 2022  
@@ -144,8 +149,3 @@ author_profile: true
   Chenglizhao Chen, Shengran Gao, Hongjuan Pei, <u><b>Ning Chen</b></u>, Lei Shi, Peiying Zhang<br>
   <i>Sensors</i>, 25(3): 772, 2025  
   🔗 [Paper](https://www.mdpi.com/1424-8220/25/3/772)
-
-- 🧩【<b><font color=blue>TETT</font></b>】Multi-Objective Collaborative Resource Allocation for Cloud-Edge Networks: A VNE Approach<br>
-  Xin Li, Chengcheng Li, Weihong Dai, Konstantin Igorevich Kostromitin, Shengpeng Chen, <u><b>Ning Chen</b></u><br>
-  <i>Transactions on Emerging Telecommunications Technologies</i>, 36(7): e70197, 2025  
-  🔗 [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.70197)
