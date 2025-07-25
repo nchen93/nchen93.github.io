@@ -9,7 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}  
 
-* 【**<font color=red>IEEE COMST</font>, IF: 35.6**】[AI-Empowered Virtual Network Embedding: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/10587211), **IEEE Communications Surveys & Tutorials**, 27(2): 1395 - 1426, 2025.
+My paper
+======
+* 【**<font color=blue>IEEE COMST</font>, IF: 35.6**】AI-Empowered Virtual Network Embedding: A Comprehensive Survey, IEEE Communications Surveys & Tutorials, 27(2): 1395 - 1426, 2025. [Paper](https://ieeexplore.ieee.org/abstract/document/10587211)
 
 
 * 【**<font color=red>IEEE Network</font>, IF: 10.294**】[AI-Enabled Deployment Automation for 6G Space-Air-Ground Integrated Networks: Challenges, Design, and Outlook](https://ieeexplore.ieee.org/abstract/document/10443704), **IEEE Network**, 38(6): 219-226, 2024.
@@ -55,6 +57,8 @@ author_profile: true
 * 【**<font color=red>IEEE TCSS</font>, IF: 4.747**】[A Web Knowledge-Driven Multimodal Retrieval Method in Computational Social Systems: Unsupervised and Robust Graph Convolutional Hashing](https://ieeexplore.ieee.org/abstract/document/9941497), **IEEE Transactions on Computational Social Systems**, 11(3): 3146-3156, 2024.
 
 
+Collaborative paper
+====
 
 * 【**<font color=red>IEEE TNSM</font>, IF: 4.758**】[Distributed Deep Reinforcement Learning Assisted Resource Allocation Algorithm for Space-Air-Ground Integrated Networks](https://ieeexplore.ieee.org/abstract/document/9999560),  **IEEE Transactions on Network and Service Management**, 20(3): 3348-3358, 2022.
 
