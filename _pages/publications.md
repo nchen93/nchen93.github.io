@@ -130,7 +130,7 @@ author_profile: true
   <i>IEEE Transactions on Network and Service Management</i>, 22(1): 499–515, 2025  
   🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10701003)
 
-- 🔗【<b><font color=blue>China Commu</font></b>】Blockchain-Enabled Trusted Virtual Network Embedding in Intelligent Cyber-Physical Systems<br>
+- ⛓️【<b><font color=blue>China Commu</font></b>】Blockchain-Enabled Trusted Virtual Network Embedding in Intelligent Cyber-Physical Systems<br>
   Hailong Zhu, Tao Huang, Yi Zhang, <u><b>Ning Chen</b></u>, Peiying Zhang<br>
   <i>China Communications</i>, 0–15, 2024  
   🔗 [Paper](http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2024-0128)
