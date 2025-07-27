@@ -8,7 +8,7 @@ author_profile: true
 
 <img src="https://i.postimg.cc/7Yt0xKDh/zhengshu1.png" width="50%">
 
-* **<font color=red>Second Prize of Shandong Province Postgraduate Innovation Achievement Award</font>** (ID:2022CXCG101), 2022-12-30, Shandong Provincial Department of Education, China. <br> 山东省研究所创新成果二等奖，2022-12-30，山东省教育厅
+* **<font color=red>Second Prize of Shandong Province Postgraduate Innovation Achievement Award</font>** (ID:2022CXCG101), 2022-12-30, Shandong Provincial Department of Education, China. <br> 山东省研究生创新成果二等奖，2022-12-30，山东省教育厅
 
 <img src="https://i.postimg.cc/PfwXZgVF/image.png" width="50%">
 
