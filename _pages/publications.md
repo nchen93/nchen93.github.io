@@ -17,6 +17,21 @@ author_profile: true
   <u><b>Ning Chen</b></u>, Peiying Zhang, Neeraj Kumar, Ching-Hsien Hsu, Laith Abualigah, Hailong Zhu<br>
   <i>Knowledge-Based Systems</i>, 257: 109931, 2022  
   🔗 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243)
+  🔖 [cite](#citation-kbs)
+
+  <details id="citation-kbs">
+  <summary>BibTeX entry</summary>
+  ```bibtex
+ @article{chen2022spectral,
+  title={Spectral graph theory-based virtual network embedding for vehicular fog computing: A deep reinforcement learning architecture},
+  author={Chen, Ning and Zhang, Peiying and Kumar, Neeraj and Hsu, Ching-Hsien and Abualigah, Laith and Zhu, Hailong},
+  journal={Knowledge-Based Systems},
+  volume={257},
+  pages={109931},
+  year={2022},
+  publisher={Elsevier}
+}
+  </details>
 
 - ✈️ 【<b><font color=blue>Drones</font></b>】Non-Euclidean Graph-Convolution Virtual Network Embedding for Space–Air–Ground Integrated Networks<br>
   <u><b>Ning Chen</b></u>, Shigen Shen, Youxiang Duan, Siyu Huang, Wei Zhang, Lizhuang Tan<br>
