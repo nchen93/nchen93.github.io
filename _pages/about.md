@@ -28,7 +28,8 @@ News
 > [March/2025] It is a great honor to serve as Guest Editor of Special Issue "[**Application of Artificial Intelligence in Unmanned Aerial Vehicles**](https://www.mdpi.com/journal/electronics/special_issues/FW7A5WF45P)" in Electronics!
 
 <details>
-<blockquote>
+<summary>More...</summary>
+<div markdown="1">
 
 > `[March/2025] My first-author paper received a major revision decision from IEEE TWC!`
 
@@ -56,8 +57,8 @@ News
 
 > `[January/2024] My paper was accepted by IEEE TII!`
 
-</blockquote>
-
+</div>
+</details>
 
 Contact me
 ======
