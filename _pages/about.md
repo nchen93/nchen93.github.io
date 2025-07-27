@@ -30,11 +30,11 @@ News
 <details>
 <summary>More...</summary>
 
-> `[March/2025] My first-author paper received a major revision decision from IEEE TWC!`
+&gt; `[March/2025] My first-author paper received a major revision decision from IEEE TWC!`
 
-> `[January/2025] A collaborative paper was accepted by Sensors!`
+&gt; `[January/2025] A collaborative paper was accepted by Sensors!`
 
-> `[December/2024] My first-author paper was submitted to IEEE TCCN for review!`
+&gt; `[December/2024] My first-author paper was submitted to IEEE TCCN for review!`
 
 > `[December/2024] My paper was accepted by IEEE IoT-J!`
 
