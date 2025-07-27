@@ -16,9 +16,7 @@ author_profile: true
 - 🚗 【<b><font color=blue>KBS</font></b>】Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture<br>
   <u><b>Ning Chen</b></u>, Peiying Zhang, Neeraj Kumar, Ching-Hsien Hsu, Laith Abualigah, Hailong Zhu<br>
   <i>Knowledge-Based Systems</i>, 257: 109931, 2022  
-  🔗 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243)
-  🔖 [cite]
-<details><summary>BibTeX_cite</summary>
+  🔗 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243) 🔖 <details> <summary><a href="#">BibTeX_cite & Copy</a></summary>
  @article{chen2022spectral,
   title={Spectral graph theory-based virtual network embedding for vehicular fog computing: A deep reinforcement learning architecture},
   author={Chen, Ning and Zhang, Peiying and Kumar, Neeraj and Hsu, Ching-Hsien and Abualigah, Laith and Zhu, Hailong},
