@@ -37,6 +37,8 @@ author_profile: true
   Peiying Zhang, <u><b>Ning Chen#</b></u>, Shigen Shen, Shui Yu, Neeraj Kumar, Ching-Hsien Hsu<br>
   <i>IEEE Network</i>, 38(2): 186–192, 2024  
   🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10103768)
+  🏅 <font color=red><b>ESI Highly Cited Paper & ESI Hot Paper</b></font>
+  
 - 🔋 【<b><font color=blue>IEEE TSUSC</font></b>】Energy Allocation for Vehicle-to-Grid Settings: A Low-Cost Proposal Combining DRL and VNE<br>
   Peiying Zhang, <u><b>Ning Chen#</b></u>, Neeraj Kumar, Laith Abualigah, Mohsen Guizani, Youxiang Duan, Jian Wang, Sheng Wu<br>
   <i>IEEE Transactions on Sustainable Computing</i>, 9(1): 75–87, 2024  
