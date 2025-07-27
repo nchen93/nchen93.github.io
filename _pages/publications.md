@@ -53,7 +53,7 @@ author_profile: true
 - 🎯 【<b><font color=blue>IEEE COMST</font></b>】AI-Empowered Virtual Network Embedding: A Comprehensive Survey<br>
   Sheng Wu, <u><b>Ning Chen</b></u>, Ailing Xiao, Peiying Zhang, Chunxiao Jiang, Wei Zhang<br>
   <i>IEEE Communications Surveys & Tutorials</i>, 27(2): 1395–1426, 2025  
-  🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10587211)
+  🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10587211)   
   🏅 <font color=red><b>ESI Highly Cited Paper</b></font>
 
 - 🧠 【<b><font color=blue>IEEE TII</font></b>】Virtual Network Embedding for Task Offloading in IIoT: A DRL-Assisted Federated Learning Scheme<br>
