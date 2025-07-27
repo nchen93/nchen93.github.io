@@ -59,7 +59,8 @@ author_profile: true
 - 🚗 【<b><font color=blue>KBS</font></b>】Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture<br>
   <u><b>Ning Chen</b></u>, Peiying Zhang, Neeraj Kumar, Ching-Hsien Hsu, Laith Abualigah, Hailong Zhu<br>
   <i>Knowledge-Based Systems</i>, 257: 109931, 2022  
-  🔗 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243) 🔖<span class="bibtex-cite" tabindex="0">[Bibtex]</span>
+  🔗 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243) |🔖
+  <span class="bibtex-cite" tabindex="0">[Bibtex]</span>
 <div class="bibtex-content">
 <pre>@article{chen2022spectral,
   title={Spectral graph theory-based virtual network embedding for vehicular fog computing: A deep reinforcement learning architecture},
@@ -206,10 +207,41 @@ author_profile: true
   🔗 [Paper](https://www.mdpi.com/1424-8220/25/3/772)
 
 <script>
-document.querySelectorAll('.bibtex-cite').forEach(item => {
-  item.addEventListener('click', e => {
-    const content = e.target.nextElementSibling;
-    content.style.display = content.style.display === 'block' ? 'none' : 'block';
+// 修复后的脚本
+document.addEventListener('DOMContentLoaded', function() {
+  // 1. 绑定Bibtex点击事件
+  document.querySelectorAll('.bibtex-cite').forEach(item => {
+    item.addEventListener('click', function(e) {
+      // 修复元素定位问题
+      let content = this.nextElementSibling;
+      while(content && !content.classList.contains('bibtex-content')) {
+        content = content.nextElementSibling;
+      }
+      if(content) {
+        content.style.display = content.style.display === 'block' ? 'none' : 'block';
+      }
+    });
+  });
+
+  // 2. 绑定复制按钮事件
+  document.querySelectorAll('.copy-btn').forEach(button => {
+    button.addEventListener('click', function() {
+      const pre = this.previousElementSibling;
+      const text = pre.textContent;
+      
+      navigator.clipboard.writeText(text).then(() => {
+        // 添加复制成功反馈
+        const originalText = this.textContent;
+        this.textContent = '✓ Copied!';
+        
+        setTimeout(() => {
+          this.textContent = originalText;
+        }, 2000);
+      }).catch(err => {
+        console.error('复制失败:', err);
+        alert('复制失败，请手动复制内容');
+      });
+    });
   });
 });
 </script>
