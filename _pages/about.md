@@ -59,7 +59,10 @@ News
 
 </div>
 </details>
+
 <hr>
+
+
 Contact me
 ======
 For academic cooperation or other matters, please feel free to contact me, email: _**<font color=red>nchen@bupt.edu.cn</font>**_.
