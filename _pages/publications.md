@@ -19,8 +19,7 @@ author_profile: true
 
 - ✈️ 【<b><font color=blue>Drones</font></b>】Non-Euclidean Graph-Convolution Virtual Network Embedding for Space–Air–Ground Integrated Networks<br>
   <u><b>Ning Chen</b></u>, Shigen Shen, Youxiang Duan, Siyu Huang, Wei Zhang, Lizhuang Tan<br>
-  <i>Drones</i>, 7(3), 165, 2023  
-  🔗 [Paper](https://www.mdpi.com/2504-446X/7/3/165)
+  <i>Drones</i>, 7(3), 165, 2023. 🔗 [Paper](https://www.mdpi.com/2504-446X/7/3/165)
 
 - 🚦 【<b><font color=blue>IEEE T-ITS</font></b>】Multi-Target-Aware Dynamic Resource Scheduling for Cloud-Fog-Edge Multi-Tier Computing Network<br>
   Peiying Zhang, <u><b>Ning Chen#</b></u>, Guanjun Xu, Neeraj Kumar, Ahmed Barnawi, Mohsen Guizani, Youxiang Duan, Keping Yu<br>
