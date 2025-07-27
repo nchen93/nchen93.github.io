@@ -16,7 +16,7 @@ author_profile: true
 - 🚗 【<b><font color=blue>KBS</font></b>】Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture<br>
   <u><b>Ning Chen</b></u>, Peiying Zhang, Neeraj Kumar, Ching-Hsien Hsu, Laith Abualigah, Hailong Zhu<br>
   <i>Knowledge-Based Systems</i>, 257: 109931, 2022  
-  🔗 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243) |🔖 [Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:dgD5nBe8glwJ:scholar.google.com/&output=citation&scisdr=CgJaKgfgEPiY8j66D-k:AAZF9b8AAAAAaIW8F-nweNesxMijl3lN2moQ-uo&scisig=AAZF9b8AAAAAaIW8F5ZHfoUrnq52nD08jD4HWbQ&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+  🔗 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243)
 
 - ✈️ 【<b><font color=blue>Drones</font></b>】Non-Euclidean Graph-Convolution Virtual Network Embedding for Space–Air–Ground Integrated Networks<br>
   <u><b>Ning Chen</b></u>, Shigen Shen, Youxiang Duan, Siyu Huang, Wei Zhang, Lizhuang Tan<br>
@@ -36,9 +36,7 @@ author_profile: true
 - ☁️ 【<b><font color=blue>IEEE Network</font></b>】AI-Enabled Space-Air-Ground Integrated Networks: Management and Optimization<br>
   Peiying Zhang, <u><b>Ning Chen#</b></u>, Shigen Shen, Shui Yu, Neeraj Kumar, Ching-Hsien Hsu<br>
   <i>IEEE Network</i>, 38(2): 186–192, 2024  
-  🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10103768)  
-  🏅 <font color=red><b>ESI Highly Cited Paper & Hot Paper</b></font>
-
+  🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10103768)
 - 🔋 【<b><font color=blue>IEEE TSUSC</font></b>】Energy Allocation for Vehicle-to-Grid Settings: A Low-Cost Proposal Combining DRL and VNE<br>
   Peiying Zhang, <u><b>Ning Chen#</b></u>, Neeraj Kumar, Laith Abualigah, Mohsen Guizani, Youxiang Duan, Jian Wang, Sheng Wu<br>
   <i>IEEE Transactions on Sustainable Computing</i>, 9(1): 75–87, 2024  
@@ -49,7 +47,6 @@ author_profile: true
   Youxiang Duan, <u><b>Ning Chen#</b></u>, Ali Kashif Bashir, Mohammad Dahman Alshehri, Lei Liu, Peiying Zhang, Keping Yu<br>
   <i>IEEE Transactions on Computational Social Systems</i>, 11(3): 3146–3156, 2024  
   🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/9941497)
-
   
 - 🎯 【<b><font color=blue>IEEE COMST</font></b>】AI-Empowered Virtual Network Embedding: A Comprehensive Survey<br>
   Sheng Wu, <u><b>Ning Chen</b></u>, Ailing Xiao, Peiying Zhang, Chunxiao Jiang, Wei Zhang<br>
