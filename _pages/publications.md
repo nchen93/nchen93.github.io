@@ -3,6 +3,49 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
+<style>
+.bibtex-cite {
+  cursor: pointer;
+  color: #1e6bb8;
+  text-decoration: none;
+  font-weight: normal;
+}
+.bibtex-cite:hover {
+  text-decoration: underline;
+}
+.bibtex-content {
+  display: none;
+  position: relative;
+  background: #f6f8fa;
+  border-radius: 6px;
+  padding: 15px;
+  margin-top: 10px;
+  border: 1px solid #e1e4e8;
+}
+.bibtex-content pre {
+  margin: 0;
+  padding: 10px;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  font-size: 14px;
+  line-height: 1.4;
+}
+.copy-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #0366d6;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.copy-btn:hover {
+  background: #0356b6;
+}
+</style>
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
@@ -16,8 +59,9 @@ author_profile: true
 - 🚗 【<b><font color=blue>KBS</font></b>】Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture<br>
   <u><b>Ning Chen</b></u>, Peiying Zhang, Neeraj Kumar, Ching-Hsien Hsu, Laith Abualigah, Hailong Zhu<br>
   <i>Knowledge-Based Systems</i>, 257: 109931, 2022  
-  🔗 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243) 🔖 <details> <summary><a href="#">BibTeX_cite & Copy</a></summary>
- @article{chen2022spectral,
+  🔗 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010243) 🔖<span class="bibtex-cite" tabindex="0">[Bibtex]</span>
+<div class="bibtex-content">
+<pre>@article{chen2022spectral,
   title={Spectral graph theory-based virtual network embedding for vehicular fog computing: A deep reinforcement learning architecture},
   author={Chen, Ning and Zhang, Peiying and Kumar, Neeraj and Hsu, Ching-Hsien and Abualigah, Laith and Zhu, Hailong},
   journal={Knowledge-Based Systems},
@@ -25,8 +69,9 @@ author_profile: true
   pages={109931},
   year={2022},
   publisher={Elsevier}
-}
-  </details>
+}</pre>
+<button class="copy-btn" onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText)">复制</button>
+</div>
 
 - ✈️ 【<b><font color=blue>Drones</font></b>】Non-Euclidean Graph-Convolution Virtual Network Embedding for Space–Air–Ground Integrated Networks<br>
   <u><b>Ning Chen</b></u>, Shigen Shen, Youxiang Duan, Siyu Huang, Wei Zhang, Lizhuang Tan<br>
@@ -159,3 +204,12 @@ author_profile: true
   Chenglizhao Chen, Shengran Gao, Hongjuan Pei, <u><b>Ning Chen</b></u>, Lei Shi, Peiying Zhang<br>
   <i>Sensors</i>, 25(3): 772, 2025  
   🔗 [Paper](https://www.mdpi.com/1424-8220/25/3/772)
+
+<script>
+document.querySelectorAll('.bibtex-cite').forEach(item => {
+  item.addEventListener('click', e => {
+    const content = e.target.nextElementSibling;
+    content.style.display = content.style.display === 'block' ? 'none' : 'block';
+  });
+});
+</script>
