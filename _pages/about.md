@@ -29,6 +29,7 @@ News
 
 <details>
 <summary>More...</summary>
+
 > `[March/2025] My first-author paper received a major revision decision from IEEE TWC!`
 
 > `[January/2025] A collaborative paper was accepted by Sensors!`
