@@ -22,9 +22,28 @@ layout: default
     {{ content }}
 
     {% if page.url == "/" %}
-    <!-- ClustrMaps Visitor Map -->
-    <div style="width: 250px; margin-top: 30px; text-align: center;">
-      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hvc5O1UgPA06p6-UMeOwQ0f3TRcKR9DNeTrErNgDvb8&cl=ffffff&w=a"></script>
+      <div style="
+        width: 260px;
+        margin: 30px auto;
+        text-align: center;
+        background: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        padding: 8px;
+        overflow: hidden;
+      ">
+      <script 
+        type="text/javascript" 
+        id="clustrmaps" 
+        src="//clustrmaps.com/map_v2.js?d=hvc5O1UgPA06p6-UMeOwQ0f3TRcKR9DNeTrErNgDvb8&cl=ffffff&w=a">
+      </script>
+      <style>
+        /* 隐藏 ClustrMaps 顶部文字，只保留地图 */
+        #clustrmaps > div > div:first-child {
+          display: none !important;
+        }
+      </style>
     </div>
-    {% endif %}
+  {% endif %}
+    
 </div>
