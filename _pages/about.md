@@ -68,6 +68,4 @@ Contact me
 For academic cooperation or other matters, please feel free to contact me, email: _**<font color=red>nchen@bupt.edu.cn</font>**_.
 
 
-<iframe style="border: 0; width: 100%; height: 300px;" src="//www.clustrmaps.com/map_v2.png?d=hvc5O1UgPA06p6-UMeOwQ0f3TRcKR9DNeTrErNgDvb8&cl=ffffff" allowfullscreen></iframe>
-
 
