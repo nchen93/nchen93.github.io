@@ -8,9 +8,13 @@ author_profile: true
 
 Hi, I am Ning Chen (陈宁)
 ======
+<div style="text-align: justify;">
 I'm currently pursuing the Ph.D. degree with Beijing University of Posts and Telecommunications (BUPT), Beijing, China. My research interests include **Satellite Communications**, **Artificial Intelligence for Networking**, and **Network Slicing**. I have published more than twenty high-level articles. 
+</div>
 
+<div style="text-align: justify;">
 I'm serving as a reviewer for several journals/conferences, such as IEEE TWC, IEEE TII, IEEE Network, IEEE TNNLS, IEEE T-ITS, IEEE TVT, IEEE TNSM, IEEE TMM, IEEE IoT-J, etc. And, I'm serving as the editorial board member of [Journal of Information and Computing](https://www.hkstmpress.com/journals/JIC/) and Guest Editor of Electronics: [Application of Artificial Intelligence in Unmanned Aerial Vehicles](https://www.mdpi.com/journal/electronics/special_issues/FW7A5WF45P). I have received more than ten outstanding awards and honors from the government and academia, including National Postgraduate Scholarships, Second Prize of Shandong Province Postgraduate Innovation Achievement Award, etc. I have received funding from BUPT Excellent Ph.D. Students Foundation.
+</div>
 
 News
 ======
