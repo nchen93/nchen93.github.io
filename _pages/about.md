@@ -7,9 +7,13 @@ author_profile: true
 # Hi, I am Ning Chen (陈宁) 🌟
 
 🌐 **Research Interests**: Satellite Communications, Artificial Intelligence for Networking, Network Slicing.
+
 📚 **Publications**: Over 20 high-level articles in top journals, with more than 700 citations.
+
 🏆 **Honors & Awards**: National Postgraduate Scholarships, Second Prize of Shandong Province Postgraduate Innovation Achievement Award, Outstanding Graduate Awards, etc.
+
 📝 **Editorial Roles**: Reviewer for IEEE TWC, IEEE TII, IEEE Network, IEEE TNNLS, IEEE T-ITS, IEEE TVT, IEEE TNSM, IEEE TMM, IEEE IoT-J, etc; Editorial Board Member of [Journal of Information and Computing](https://www.hkstmpress.com/journals/JIC/); Guest Editor of Electronics Special Issue: [Application of AI in UAVs](https://www.mdpi.com/journal/electronics/special_issues/FW7A5WF45P).
+
 💰 **Funding**: BUPT Excellent Ph.D. Students Foundation.
 
 ---
