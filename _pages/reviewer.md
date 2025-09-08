@@ -19,7 +19,7 @@ author_profile: true
 
 * **[IEEE Transactions on Network and Service Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028)** (IEEE TNSM)
 
-* **[IEEE Transactions on Network Science and Engineering](IEEE Transactions on Network Science and Engineering)** (IEEE  TNSE)
+* **[IEEE Transactions on Network Science and Engineering](https://www.comsoc.org/publications/journals/ieee-tnse)** (IEEE  TNSE)
 
 * **[IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)** (IEEE TMM)
 
