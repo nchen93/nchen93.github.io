@@ -3,12 +3,6 @@ layout: archive
 permalink: /honors/
 author_profile: true
 ---
----
-layout: archive
-permalink: /honors/
-author_profile: true
-title: "Honors & Awards"
----
 ## 🏆 Competition Awards
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
