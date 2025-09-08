@@ -19,6 +19,8 @@ author_profile: true
 
 * **[IEEE Transactions on Network and Service Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028)** (IEEE TNSM)
 
+* **[IEEE Transactions on Network Science and Engineering](IEEE Transactions on Network Science and Engineering)** (IEEE  TNSE)
+
 * **[IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)** (IEEE TMM)
 
 * **[Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)** (FGCS)
@@ -26,6 +28,8 @@ author_profile: true
 * **[Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)** (PR)
 
 * **[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)** (KBS)
+
+* **[Scientific Reports](https://www.nature.com/srep/)** (SREP)
 
 * **[Neural Networks](https://www.sciencedirect.com/journal/neural-networks)** (NEUNET)
 
