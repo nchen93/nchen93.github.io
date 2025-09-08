@@ -45,7 +45,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
-    🏆 <b><span style="color:red;">National Postgraduate Scholarship</span></b>|<b>国家奖学金</b> (ID:SSY202208819)<br>
+    🏆 <b><span style="color:red;">National Postgraduate Scholarship</span></b>|<b>国家奖学金</b><br>
     📍Ministry of Education of the People's Republic of China|中华人民共和国教育部<br>
     📅 2022-12
   </div>
@@ -58,7 +58,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
-    🏆 <b><span style="color:red;">Second Prize of Shandong Province Postgraduate Innovation Achievement Award</span></b>|<b>山东省研究生创新成果二等奖</b> (ID:2022CXCG101)<br>
+    🏆 <b><span style="color:red;">Second Prize of Shandong Province Postgraduate Innovation Achievement Award</span></b>|<b>山东省研究生创新成果二等奖</b><br>
      Shandong Provincial Department of Education|山东省教育厅<br>
     📅 2022-12-30
   </div>
@@ -71,7 +71,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
-    🏆 <b><span style="color:red;">Outstanding Graduates of Shandong Province</span></b>|<b>山东省优秀毕业生</b> (ID:GXYP23YZS10425N428978730-8E94A390E3)<br>
+    🏆 <b><span style="color:red;">Outstanding Graduates of Shandong Province</span></b>|<b>山东省优秀毕业生</b><br>
     📍 Human Resources and Social Security Department of Shandong Province|山东省人力资源和社会保障厅<br>
     📅 2023-04-17
   </div>
