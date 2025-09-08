@@ -2,6 +2,7 @@
 layout: archive
 permalink: /honors/
 author_profile: true
+title: false
 ---
 # Honors & Awards
 
