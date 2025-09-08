@@ -9,7 +9,6 @@ author_profile: true
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
----
 
 <div style="padding: 15px; border: 2px solid #e5e7eb; border-radius: 12px; background: #f9fafb; box-shadow: 2px 2px 6px rgba(0,0,0,0.05);">
 
