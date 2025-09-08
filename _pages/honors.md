@@ -43,7 +43,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
-    🏆 <b><span style="color:red;">National Postgraduate Scholarship</span></b>|<b>国家奖学金</b><br>
+    🏆 <b><span style="color:red;">National Postgraduate Scholarship</span></b> | <b>国家奖学金</b><br>
      Ministry of Education of the People's Republic of China|中华人民共和国教育部<br>
      2022-12
   </div>
