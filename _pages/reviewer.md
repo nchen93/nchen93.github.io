@@ -4,13 +4,6 @@ permalink: /reviewer/
 author_profile: true
 ---
 
-# 📝 Reviewer Service
-
-Below is a list of journals and conferences for which I have served as a reviewer.  
-Grouped by publisher for clarity.
-
----
-
 ## 📘 IEEE Journals
 - **[IEEE Transactions on Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693)** <span style="color:#0073b7; font-size:0.9em">(TWC)</span>  
 - **[IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)** <span style="color:#0073b7; font-size:0.9em">(TII)</span>  
