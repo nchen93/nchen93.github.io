@@ -43,7 +43,6 @@ title: Hi, I am Ning Chen (陈宁) 🌟
 - 📅 `[May/2024]` I received funding for BUPT Excellent Ph.D. Students Foundation!
 - 📅 `[January/2024]` My paper was accepted by IEEE Network!
 - 📅 `[January/2024]` My paper was accepted by IEEE TII!
-- 
 </div>
 </details>
 
