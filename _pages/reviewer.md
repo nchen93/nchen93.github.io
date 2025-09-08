@@ -2,7 +2,6 @@
 layout: archive
 permalink: /reviewer/
 author_profile: true
-title: "Reviewer"
 ---
 
 # 📝 Reviewer Service
