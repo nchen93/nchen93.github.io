@@ -2,9 +2,8 @@
 layout: archive
 permalink: /
 author_profile: true
+title: Hi, I am Ning Chen (陈宁) 🌟
 ---
-
-# Hi, I am Ning Chen (陈宁) 🌟
 
 🌐 **Research Interests**: Satellite Communications, Artificial Intelligence for Networking, Network Slicing.
 
