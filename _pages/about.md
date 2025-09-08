@@ -5,15 +5,8 @@ author_profile: true
 title: Hi, I am Ning Chen (陈宁) 🌟
 ---
 
-🌐 **Research Interests**: Satellite Communications, Artificial Intelligence for Networking, Network Slicing.
+I'm currently pursuing the Ph.D. degree at Beijing University of Posts and Telecommunications (BUPT), Beijing, China, with research interests in Satellite Communications, Artificial Intelligence for Networking, and Network Slicing. I have published over twenty high-level articles in top-tier journals. I serve as a reviewer for multiple prestigious journals, including IEEE TWC, TII, Network, TNNLS, T-ITS, TVT, TNSM, TMM, and IoT-J, and I am an editorial board member of the [Journal of Information and Computing](https://www.hkstmpress.com/journals/JIC/) as well as a Guest Editor of Electronics Special Issue: [Application of Artificial Intelligence in Unmanned Aerial Vehicles](https://www.mdpi.com/journal/electronics/special_issues/FW7A5WF45P). I have received numerous awards and honors from government and academic institutions, such as the National Postgraduate Scholarship, Second Prize of Shandong Province Postgraduate Innovation Achievement Award, and Outstanding Graduate Awards. My research has been supported by the BUPT Excellent Ph.D. Students Foundation.
 
-📚 **Publications**: Over 20 high-level articles in top journals, with more than 700 citations.
-
-🏆 **Honors & Awards**: National Postgraduate Scholarships, Second Prize of Shandong Province Postgraduate Innovation Achievement Award, Outstanding Graduate Awards, etc.
-
-📝 **Editorial Roles**: Reviewer for IEEE TWC, IEEE TII, IEEE Network, IEEE TNNLS, IEEE T-ITS, IEEE TVT, IEEE TNSM, IEEE TMM, IEEE IoT-J, etc; Editorial Board Member of [Journal of Information and Computing](https://www.hkstmpress.com/journals/JIC/); Guest Editor of Electronics Special Issue: [Application of AI in UAVs](https://www.mdpi.com/journal/electronics/special_issues/FW7A5WF45P).
-
-💰 **Funding**: BUPT Excellent Ph.D. Students Foundation.
 
 ---
 
