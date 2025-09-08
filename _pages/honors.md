@@ -2,7 +2,6 @@
 layout: archive
 permalink: /honors/
 author_profile: true
-title: Honors & Awards
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
