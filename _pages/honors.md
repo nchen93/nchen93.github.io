@@ -44,7 +44,7 @@ author_profile: true
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
     🏆 <b><span style="color:red;">National Postgraduate Scholarship</span></b> | <b>国家奖学金</b><br>
-     Ministry of Education of the People's Republic of China|中华人民共和国教育部<br>
+     Ministry of Education of the People's Republic of China | 中华人民共和国教育部<br>
      2022-12
   </div>
   <div style="flex: 1; text-align: right;">
@@ -56,8 +56,8 @@ author_profile: true
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
-    🏆 <b><span style="color:red;">Second Prize of Shandong Province Postgraduate Innovation Achievement Award</span></b>|<b>山东省研究生创新成果二等奖</b><br>
-     Shandong Provincial Department of Education|山东省教育厅<br>
+    🏆 <b><span style="color:red;">Second Prize of Shandong Province Postgraduate Innovation Achievement Award</span></b> | <b>山东省研究生创新成果二等奖</b><br>
+     Shandong Provincial Department of Education | 山东省教育厅<br>
      2022-12-30
   </div>
   <div style="flex: 1; text-align: right;">
@@ -69,8 +69,8 @@ author_profile: true
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
-    🏆 <b><span style="color:red;">Outstanding Graduates of Shandong Province</span></b>|<b>山东省优秀毕业生</b><br>
-     Human Resources and Social Security Department of Shandong Province|山东省人力资源和社会保障厅<br>
+    🏆 <b><span style="color:red;">Outstanding Graduates of Shandong Province</span></b> | <b>山东省优秀毕业生</b><br>
+     Human Resources and Social Security Department of Shandong Province | 山东省人力资源和社会保障厅<br>
      2023-04-17
   </div>
   <div style="flex: 1; text-align: right;">
@@ -82,8 +82,8 @@ author_profile: true
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
-    🏆 <b><span style="color:red;">One thousand outstanding college students in Qingdao City</span></b>|<b>青岛市千名优秀大学生</b><br>
-     Qingdao Municipal Education Bureau|青岛市教育局<br>
+    🏆 <b><span style="color:red;">One thousand outstanding college students in Qingdao City</span></b> | <b>青岛市千名优秀大学生</b><br>
+     Qingdao Municipal Education Bureau | 青岛市教育局<br>
      2023-05
   </div>
   <div style="flex: 1; text-align: right;">
@@ -95,8 +95,8 @@ author_profile: true
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
-    🏆 <b><span style="color:red;">The 17th Top 10 Academic Nominee of Postgraduates</span></b>|<b>第十七届学术十杰提名奖</b><br>
-     China University of Petroleum (East China)|中国石油大学（华东）<br>
+    🏆 <b><span style="color:red;">The 17th Top 10 Academic Nominee of Postgraduates</span></b> | <b>第十七届学术十杰提名奖</b><br>
+     China University of Petroleum (East China) | 中国石油大学（华东）<br>
      2022-11-12
   </div>
   <div style="flex: 1; text-align: right;">
@@ -108,8 +108,8 @@ author_profile: true
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
-    🏆 <b><span style="color:red;">Outstanding Master's Thesis of 2023</span></b>|<b>2023年研究生优秀学位论文</b><br>
-     China University of Petroleum (East China)|中国石油大学（华东）<br>
+    🏆 <b><span style="color:red;">Outstanding Master's Thesis of 2023</span></b> | <b>2023年研究生优秀学位论文</b><br>
+     China University of Petroleum (East China) | 中国石油大学（华东）<br>
      2023-06-20
   </div>
   <div style="flex: 1; text-align: right;">
