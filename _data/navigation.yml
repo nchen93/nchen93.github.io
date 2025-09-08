@@ -19,6 +19,6 @@ main:
   - title: "Editorial Board"
     url: /editor/
 
-  - title: "TPC"
-    url: /tpc/
+  # - title: "TPC"
+  #   url: /tpc/
 
