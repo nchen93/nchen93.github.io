@@ -13,11 +13,11 @@ main:
   - title: "Funded Project"
     url: /funding/
 
-  - title: "Reviewer"
+  - title: "Editorial Board & Reviewer"
     url: /reviewer/
 
-  - title: "Editorial Board"
-    url: /editor/
+  # - title: "Editorial Board"
+    # url: /editor/
 
   # - title: "TPC"
   #   url: /tpc/
