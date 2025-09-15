@@ -4,7 +4,7 @@ permalink: /funding/
 author_profile: true
 ---
 
-
+---
 # 🎯 Research Projects
 
 ## 🔹 Hosted Projects
