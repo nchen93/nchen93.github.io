@@ -11,7 +11,7 @@ main:
     url: /honors/
 
   - title: "Funded Project"
-   url: /funding/
+    url: /funding/
 
   - title: "Reviewer"
     url: /reviewer/
