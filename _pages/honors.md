@@ -9,10 +9,7 @@ author_profile: true
     🥇 <b><span style="color:red;">第二届北京邮电大学“鸿雁杯”学生创新大赛</span></b>：主赛道研究生组一等奖<br>
      范皓玥、<b>陈宁</b>、赵迎雪、程云昊、高铭、闫芝浩、欧永康<br>
      北京邮电大学<br>
-     2025
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://i.postimg.cc/9QQf7kbX/test1.png" width="80%">
+     2025.05
   </div>
 </div>
 
@@ -23,7 +20,10 @@ author_profile: true
     🥈 <b><span style="color:red;">中国国际大学生创新大赛（2025）北京赛区</span></b>：高教主赛道二等奖<br>
      范皓玥、<b>陈宁</b>、赵迎雪、程云昊、高铭、闫芝浩、欧永康、刘志青<br>
      北京市教育委员会<br>
-     2025
+     2025.08
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://i.postimg.cc/hhW6ccy8/01.png" width="80%">
   </div>
 </div>
 
@@ -34,7 +34,10 @@ author_profile: true
     🥈 <b><span style="color:red;">第四届“京彩大创”北京大学生创新创业大赛</span></b>：二等奖<br>
      范皓玥、<b>陈宁</b>、赵迎雪、程云昊、高铭、闫芝浩、欧永康<br>
      北京市教育委员会<br>
-     2025
+     2025.09
+  </div>
+    <div style="flex: 1; text-align: right;">
+    <img src="https://i.postimg.cc/9QQf7kbX/test1.png" width="80%">
   </div>
 </div>
 
