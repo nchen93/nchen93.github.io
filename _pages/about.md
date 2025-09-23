@@ -12,6 +12,7 @@ I'm currently pursuing the Ph.D. degree at Beijing University of Posts and Telec
 
 ## 📰 News
 
+- 📅 `[September/2025]` My first-author paper was submitted to IEEE TVT for review!
 - 📅 `[June/2025]` My first-author paper has completed major revision to IEEE TCCN for review!
 - 📅 `[May/2025]` A collaborative paper was accepted by Transactions on Emerging Telecommunications Technologies!
 - 📅 `[May/2025]` A collaborative paper was accepted by Cluster Computing!
