@@ -11,6 +11,9 @@ author_profile: true
      北京邮电大学<br>
      2025.05
   </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://i.postimg.cc/9QPJz0GX/xue-shu-cheng-guo-sai-dao-01.png" width="80%">
+  </div>
 </div>
 
 
