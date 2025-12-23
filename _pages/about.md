@@ -12,8 +12,8 @@ I'm currently pursuing the Ph.D. degree at Beijing University of Posts and Telec
 
 ## 📰 News
 
-- 📅 `[September/2025]` My first-author paper was submitted to IEEE TVT for review!
-- 📅 `[June/2025]` My first-author paper has completed major revision to IEEE TCCN for review!
+- 📅 `[December/2025]` 我入选了“**2025年中国科协青年人才托举工程博士生专项**”！托举学会是**中国通信学会**！
+- 📅 `[December/2025]` My first-author paper was submitted to IEEE IoT-J for review!
 - 📅 `[May/2025]` A collaborative paper was accepted by Transactions on Emerging Telecommunications Technologies!
 - 📅 `[May/2025]` A collaborative paper was accepted by Cluster Computing!
 
@@ -21,10 +21,8 @@ I'm currently pursuing the Ph.D. degree at Beijing University of Posts and Telec
 <summary>More...</summary>
 <div markdown="1">
   
-- 📅 `[April/2025]` My first-author paper has completed major revision and resubmitted to IEEE TWC for review!
 - 📅 `[April/2025]` My first-author paper was submitted to IEEE TWC for review!
 - 📅 `[March/2025]` Guest Editor of Electronics Special Issue "[**Application of AI in UAVs**](https://www.mdpi.com/journal/electronics/special_issues/FW7A5WF45P)"
-- 📅 `[March/2025]` My first-author paper received a major revision decision from IEEE TWC!
 - 📅 `[January/2025]` A collaborative paper was accepted by Sensors!
 - 📅 `[December/2024]` My first-author paper was submitted to IEEE TCCN for review!
 - 📅 `[December/2024]` My paper was accepted by IEEE IoT-J!
