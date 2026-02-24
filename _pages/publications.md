@@ -137,7 +137,7 @@ author_profile: true
 
 - ⛓️【<b><font color=blue>China Commu</font></b>】Blockchain-Enabled Trusted Virtual Network Embedding in Intelligent Cyber-Physical Systems<br>
   Hailong Zhu, Tao Huang, Yi Zhang, <u><b>Ning Chen</b></u>, Peiying Zhang<br>
-  <i>China Communications</i>, 0–15, 2024  
+  <i>China Communications</i>, 23(1): 175-188, 2026  
   🔗 [Paper](http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2024-0128)
 
 - 🔍 【<b><font color=blue>IEEE Access</font></b>】Transformer-Based Discriminative and Strong Representation Deep Hashing for Cross-Modal Retrieval<br>
