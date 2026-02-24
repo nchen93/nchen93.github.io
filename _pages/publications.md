@@ -13,6 +13,11 @@ author_profile: true
 
 ## 📘 My paper
 
+- 🛰️ 【<b><font color=blue>IEEE TCCN</font></b>】Multi-Stage Survivable Network Slicing with Load Balancing for LEO Mega-Constellation<br>
+  <u><b>Ning Chen</b></u>, Ailing Xiao, Sheng Wu, Zhe Ji, Haoge Jia, Linling Kuang<br>
+  <i>IEEE Transactions on Cognitive Communications and Networking</i>, early access, doi: 10.1109/TCCN.2026.3665891   
+  🔗 [Paper](https://ieeexplore.ieee.org/document/11398382)
+
 - 🚗 【<b><font color=blue>KBS</font></b>】Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture<br>
   <u><b>Ning Chen</b></u>, Peiying Zhang, Neeraj Kumar, Ching-Hsien Hsu, Laith Abualigah, Hailong Zhu<br>
   <i>Knowledge-Based Systems</i>, 257: 109931, 2022   
