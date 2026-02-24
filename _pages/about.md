@@ -12,6 +12,7 @@ I'm currently pursuing the Ph.D. degree at Beijing University of Posts and Telec
 
 ## 📰 News
 
+- 📅 `[February/2026]` My paper was accepted by IEEE TCCN!
 - 📅 `[January/2026]` A collaborative paper was accepted by Cluster Computing!
 - 📅 `[December/2025]` 我入选了“**2025年中国科协青年人才托举工程博士生专项**”！托举学会是**中国通信学会**！
 - 📅 `[March/2025]` Guest Editor of Electronics Special Issue "[**Application of AI in UAVs**](https://www.mdpi.com/journal/electronics/special_issues/FW7A5WF45P)"
