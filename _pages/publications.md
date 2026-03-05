@@ -18,6 +18,11 @@ author_profile: true
   <i>IEEE Transactions on Cognitive Communications and Networking</i>, early access, doi: 10.1109/TCCN.2026.3665891   
   🔗 [Paper](https://ieeexplore.ieee.org/document/11398382)
 
+- 🛰️ 【<b><font color=blue>IEEE IoT-J</font></b>】Cell Clustering Beam Hopping with Interference Avoidance: A CoopMASAC-PSCT Framework<br>
+  <u><b>Ning Chen</b></u>, Ailing Xiao, Sheng Wu, Cong Li, Zhe Ji, Linling Kuang<br>
+  <i>IEEE Internet of Things</i>, early access, doi: 10.1109/JIOT.2026.3670442 
+  🔗 [Paper](https://ieeexplore.ieee.org/document/11421393)
+
 - 🚗 【<b><font color=blue>KBS</font></b>】Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture<br>
   <u><b>Ning Chen</b></u>, Peiying Zhang, Neeraj Kumar, Ching-Hsien Hsu, Laith Abualigah, Hailong Zhu<br>
   <i>Knowledge-Based Systems</i>, 257: 109931, 2022   
