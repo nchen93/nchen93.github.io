@@ -15,7 +15,7 @@ author_profile: true
 
 - 🛰️ 【<b><font color=blue>IEEE TCCN</font></b>】Multi-Stage Survivable Network Slicing with Load Balancing for LEO Mega-Constellation<br>
   <u><b>Ning Chen</b></u>, Ailing Xiao, Sheng Wu, Zhe Ji, Haoge Jia, Linling Kuang<br>
-  <i>IEEE Transactions on Cognitive Communications and Networking</i>, early access, doi: 10.1109/TCCN.2026.3665891   
+  <i>IEEE Transactions on Cognitive Communications and Networking</i>, 12: 6405-6420, 2026.  
   🔗 [Paper](https://ieeexplore.ieee.org/document/11398382)
 
 - 🛰️ 【<b><font color=blue>IEEE IoT-J</font></b>】Cell Clustering Beam Hopping with Interference Avoidance: A CoopMASAC-PSCT Framework<br>
