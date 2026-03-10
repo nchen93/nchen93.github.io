@@ -12,6 +12,7 @@ I'm currently pursuing the Ph.D. degree at Beijing University of Posts and Telec
 
 ## 📰 News
 
+- 📅 `[March/2026]` A collaborative paper was accepted by Information!
 - 📅 `[March/2026]` My paper was accepted by IEEE IoT-J!
 - 📅 `[February/2026]` My paper was accepted by IEEE TCCN!
 - 📅 `[January/2026]` A collaborative paper was accepted by Cluster Computing!
