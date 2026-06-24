@@ -13,6 +13,10 @@ author_profile: true
 
 ## 📘 My paper
 
+- 🛰️ 【<b><font color=blue>IEEE TWC</font></b>】Collaborative Beam Hopping of Load Balancing and Interference Avoidance for Multi-GEO Satellite Systems Using QMIX<br>
+  <u><b>Ning Chen</b></u>, Ailing Xiao, Sheng Wu, Feng Ding, Chunxiao Jiang, Wei Zhang<br>
+  <i>IEEE Transactions on Wireless Communications</i>, 2026.  
+
 - 🛰️ 【<b><font color=blue>IEEE TCCN</font></b>】Multi-Stage Survivable Network Slicing with Load Balancing for LEO Mega-Constellation<br>
   <u><b>Ning Chen</b></u>, Ailing Xiao, Sheng Wu, Zhe Ji, Haoge Jia, Linling Kuang<br>
   <i>IEEE Transactions on Cognitive Communications and Networking</i>, 12: 6405-6420, 2026.  
@@ -139,6 +143,11 @@ author_profile: true
   Ailing Xiao, Sheng Wu, Yongkang Ou, <u><b>Ning Chen</b></u>, Chunxiao Jiang, Wei Zhang<br>
   <i>IEEE Transactions on Network and Service Management</i>, 22(1): 499–515, 2025  
   🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/10701003)
+
+- 🛰️【<b><font color=blue>IEEE Network</font></b>】A Think-Do Architecture for Cognitive Autonomy: LLM-Driven Agentic AI for Sustainable Resource Orchestration in 6G Satellite Networks<br>
+  Haotong Cao, Kai Liu, Lizhuang Tan, <u><b>Ning Chen</b></u>, Xinye Cao, Shuqing He, Peiying Zhang<br>
+  <i>IEEE Network</i>, early access, 2026  
+  🔗 [Paper](https://ieeexplore.ieee.org/document/11573139)
 
 - ⛓️【<b><font color=blue>China Commu</font></b>】Blockchain-Enabled Trusted Virtual Network Embedding in Intelligent Cyber-Physical Systems<br>
   Hailong Zhu, Tao Huang, Yi Zhang, <u><b>Ning Chen</b></u>, Peiying Zhang<br>
