@@ -8,6 +8,7 @@ author_profile: true
 ---
 ## 📚 Editorial Board
 * **Journal of Information and Computing (JIC)**
+* Assistant Editor: **China Communications**; **Journal of Communications and Information Networks**.
 
 ---
 
