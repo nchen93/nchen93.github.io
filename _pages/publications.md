@@ -15,7 +15,7 @@ author_profile: true
 
 - 🛰️ 【<b><font color=blue>IEEE TWC</font></b>】Collaborative Beam Hopping of Load Balancing and Interference Avoidance for Multi-GEO Satellite Systems Using QMIX<br>
   <u><b>Ning Chen</b></u>, Ailing Xiao, Sheng Wu, Feng Ding, Chunxiao Jiang, Wei Zhang<br>
-  <i>IEEE Transactions on Wireless Communications</i>, 25: 19131-19147, 20262026.
+  <i>IEEE Transactions on Wireless Communications</i>, 25: 19131-19147, 2026.
   🔗 [Paper](https://ieeexplore.ieee.org/document/11592728)
 
 - 🛰️ 【<b><font color=blue>IEEE TCCN</font></b>】Multi-Stage Survivable Network Slicing with Load Balancing for LEO Mega-Constellation<br>
