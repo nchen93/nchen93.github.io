@@ -25,7 +25,7 @@ author_profile: true
 
 - 🛰️ 【<b><font color=blue>IEEE IoT-J</font></b>】Cell Clustering Beam Hopping with Interference Avoidance: A CoopMASAC-PSCT Framework<br>
   <u><b>Ning Chen</b></u>, Ailing Xiao, Sheng Wu, Cong Li, Zhe Ji, Linling Kuang<br>
-  <i>IEEE Internet of Things</i>, early access, doi: 10.1109/JIOT.2026.3670442 
+  <i>IEEE Internet of Things</i>, 13(10): 22475-22487, 2026. 
   🔗 [Paper](https://ieeexplore.ieee.org/document/11421393)
 
 - 🚗 【<b><font color=blue>KBS</font></b>】Spectral Graph Theory-Based Virtual Network Embedding for Vehicular Fog Computing: A Deep Reinforcement Learning Architecture<br>
