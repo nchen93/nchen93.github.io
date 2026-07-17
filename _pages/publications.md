@@ -114,6 +114,11 @@ author_profile: true
   <i>IEEE Transactions on Network and Service Management</i>, 20(3): 3348–3358, 2022  
   🔗 [Paper](https://ieeexplore.ieee.org/abstract/document/9999560)
 
+- ✈️【<b><font color=blue>JMLC</font></b>】Application of Artificial Intelligence in Unmanned Aerial Vehicles: A Survey<br>
+  Qing Zhu, Mengyao Xi, <u><b>Ning Chen*</b></u>, Jian Wang, Peiying Zhang, Konstantin Igorevich Kostromitin<br>
+  <i>International Journal of Machine Learning and Cybernetics</i>, 17(8): 383, 2026  
+  🔗 [Paper](https://link.springer.com/article/10.1007/s13042-026-03218-x)
+
 - 💡【<b><font color=blue>ASE</font></b>】Energy Efficient Resource Allocation Based on Virtual Network Embedding for IoT Data Generation<br>
   Lizhuang Tan, Amjad Aldweesh, <u><b>Ning Chen*</b></u>, Jian Wang, Jianyong Zhang, Yi Zhang, Konstantin Igorevich Kostromitin, Peiying Zhang<br>
   <i>Automated Software Engineering</i>, 31(2): 66, 2024  
