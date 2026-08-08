@@ -15,7 +15,7 @@ author_profile: true
 
 - 🛰️ 【<b><font color=blue>IEEE TWC</font></b>】CFI-Avoiding Beam Hopping for LEO Satellites in Spectrum Sharing with GEO Systems: A Collaborative Dual-Agent SAC Framework<br>
   <u><b>Ning Chen</b></u>, Ailing Xiao, Sheng Wu, Haoge Jia, Zhe Ji, Linling Kuang<br>
-  <i>IEEE Transactions on Wireless Communications</i>, 2026, accepted.
+  <i>IEEE Transactions on Wireless Communications</i>, 25: 21276-21289, 2026.
   🔗 [Paper]()
 
 - 🛰️ 【<b><font color=blue>IEEE TWC</font></b>】Collaborative Beam Hopping of Load Balancing and Interference Avoidance for Multi-GEO Satellite Systems Using QMIX<br>
