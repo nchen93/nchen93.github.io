@@ -12,6 +12,7 @@ I'm currently pursuing the Ph.D. degree at Beijing University of Posts and Telec
 
 ## 📰 News
 
+- 📅 `[September/2026]` My paper was accepted by IEEE COMST (IF=50.6)!
 - 📅 `[July/2026]` My paper was accepted by IEEE TWC!
 - 📅 `[July/2026]` A collaborative paper (Corr) was accepted by International Journal of Machine Learning and Cybernetics！
 - 📅 `[June/2026]` 非常荣幸获得【“领航计划”青年科技人才国情研修活动（中国自动化学会班 第2期）】优秀学员！
