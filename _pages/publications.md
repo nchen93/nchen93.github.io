@@ -13,10 +13,15 @@ author_profile: true
 
 ## 📘 My paper
 
+- 🛰️ 【<b><font color=blue>IEEE COMST</font></b>】AI-Enabled Beam Hopping for Next-Generation Satellite Communications: A Survey of Methodologies, Recent Advances, and Open Challenges<br>
+  <u><b>Ning Chen</b></u>, Ailing Xiao, Sheng Wu, Haoge Jia, Zhe Ji, Linling Kuang<br>
+  <i>IEEE Communications Surveys & Tutorials</i>, 28: 7173 - 7212, 2026.
+  🔗 [Paper](https://ieeexplore.ieee.org/document/11695132/)
+
 - 🛰️ 【<b><font color=blue>IEEE TWC</font></b>】CFI-Avoiding Beam Hopping for LEO Satellites in Spectrum Sharing with GEO Systems: A Collaborative Dual-Agent SAC Framework<br>
   <u><b>Ning Chen</b></u>, Ailing Xiao, Sheng Wu, Haoge Jia, Zhe Ji, Linling Kuang<br>
   <i>IEEE Transactions on Wireless Communications</i>, 25: 21276-21289, 2026.
-  🔗 [Paper]()
+  🔗 [Paper](https://ieeexplore.ieee.org/document/11644059)
 
 - 🛰️ 【<b><font color=blue>IEEE TWC</font></b>】Collaborative Beam Hopping of Load Balancing and Interference Avoidance for Multi-GEO Satellite Systems Using QMIX<br>
   <u><b>Ning Chen</b></u>, Ailing Xiao, Sheng Wu, Feng Ding, Chunxiao Jiang, Wei Zhang<br>
